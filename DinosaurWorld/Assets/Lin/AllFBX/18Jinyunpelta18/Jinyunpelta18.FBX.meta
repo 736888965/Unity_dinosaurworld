@@ -1,0 +1,1116 @@
+fileFormatVersion: 2
+guid: 6c347a1df180d85499c0cc3848328384
+timeCreated: 1570955210
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ankle1_L
+    100002: Ankle1_R
+    100004: Ankle_L
+    100006: Ankle_R
+    100008: Chest_M
+    100010: D_Jinyunpelta:D_Jinyunpelta
+    100012: DeformationSystem
+    100014: Eye_L
+    100016: Eye_R
+    100018: Group
+    100020: Head_M
+    100022: Hip1_L
+    100024: Hip1_R
+    100026: Hip_L
+    100028: Hip_R
+    100030: Jaw_M
+    100032: //RootNode
+    100034: Knee1_L
+    100036: Knee1_R
+    100038: Knee_L
+    100040: Knee_R
+    100042: Main
+    100044: Neck0_M
+    100046: Neck1_M
+    100048: Neck5_M
+    100050: polySurface100
+    100052: polySurface101
+    100054: polySurface102
+    100056: polySurface103
+    100058: polySurface104
+    100060: polySurface105
+    100062: polySurface106
+    100064: polySurface107
+    100066: polySurface108
+    100068: polySurface109
+    100070: polySurface110
+    100072: polySurface111
+    100074: polySurface112
+    100076: polySurface113
+    100078: polySurface114
+    100080: polySurface115
+    100082: polySurface116
+    100084: polySurface117
+    100086: polySurface118
+    100088: polySurface119
+    100090: polySurface120
+    100092: polySurface121
+    100094: polySurface122
+    100096: polySurface123
+    100098: polySurface124
+    100100: polySurface125
+    100102: polySurface126
+    100104: polySurface127
+    100106: polySurface128
+    100108: polySurface129
+    100110: polySurface130
+    100112: polySurface131
+    100114: polySurface132
+    100116: polySurface133
+    100118: polySurface134
+    100120: polySurface135
+    100122: polySurface136
+    100124: polySurface137
+    100126: polySurface138
+    100128: polySurface139
+    100130: polySurface140
+    100132: polySurface141
+    100134: polySurface58
+    100136: polySurface59
+    100138: polySurface63
+    100140: polySurface64
+    100142: polySurface65
+    100144: polySurface66
+    100146: polySurface67
+    100148: polySurface68
+    100150: polySurface69
+    100152: polySurface70
+    100154: polySurface71
+    100156: polySurface72
+    100158: polySurface73
+    100160: polySurface74
+    100162: polySurface75
+    100164: polySurface76
+    100166: polySurface77
+    100168: polySurface78
+    100170: polySurface79
+    100172: polySurface80
+    100174: polySurface81
+    100176: polySurface82
+    100178: polySurface83
+    100180: polySurface84
+    100182: polySurface85
+    100184: polySurface86
+    100186: polySurface87
+    100188: polySurface88
+    100190: polySurface89
+    100192: polySurface90
+    100194: polySurface91
+    100196: polySurface92
+    100198: polySurface93
+    100200: polySurface94
+    100202: polySurface95
+    100204: polySurface96
+    100206: polySurface97
+    100208: polySurface98
+    100210: polySurface99
+    100212: Root_M
+    100214: Rump1_L
+    100216: Rump1_R
+    100218: Rump_L
+    100220: Rump_R
+    100222: Sphere001
+    100224: Sphere002
+    100226: Spine1_M
+    100228: Spine2_M
+    100230: Tail0_M
+    100232: Tail0Part1_M
+    100234: Tail1_M
+    100236: Tail1Part1_M
+    100238: Tail2_M
+    100240: Tail2Part1_M
+    100242: Tail3_M
+    100244: Tail3Part1_M
+    100246: Tail4_M
+    100248: Tail4Part1_M
+    100250: Tail5_M
+    100252: Tail5Part1_M
+    100254: Toes1_L
+    100256: Toes1_R
+    100258: Toes_L
+    100260: Toes_R
+    400000: Ankle1_L
+    400002: Ankle1_R
+    400004: Ankle_L
+    400006: Ankle_R
+    400008: Chest_M
+    400010: D_Jinyunpelta:D_Jinyunpelta
+    400012: DeformationSystem
+    400014: Eye_L
+    400016: Eye_R
+    400018: Group
+    400020: Head_M
+    400022: Hip1_L
+    400024: Hip1_R
+    400026: Hip_L
+    400028: Hip_R
+    400030: Jaw_M
+    400032: //RootNode
+    400034: Knee1_L
+    400036: Knee1_R
+    400038: Knee_L
+    400040: Knee_R
+    400042: Main
+    400044: Neck0_M
+    400046: Neck1_M
+    400048: Neck5_M
+    400050: polySurface100
+    400052: polySurface101
+    400054: polySurface102
+    400056: polySurface103
+    400058: polySurface104
+    400060: polySurface105
+    400062: polySurface106
+    400064: polySurface107
+    400066: polySurface108
+    400068: polySurface109
+    400070: polySurface110
+    400072: polySurface111
+    400074: polySurface112
+    400076: polySurface113
+    400078: polySurface114
+    400080: polySurface115
+    400082: polySurface116
+    400084: polySurface117
+    400086: polySurface118
+    400088: polySurface119
+    400090: polySurface120
+    400092: polySurface121
+    400094: polySurface122
+    400096: polySurface123
+    400098: polySurface124
+    400100: polySurface125
+    400102: polySurface126
+    400104: polySurface127
+    400106: polySurface128
+    400108: polySurface129
+    400110: polySurface130
+    400112: polySurface131
+    400114: polySurface132
+    400116: polySurface133
+    400118: polySurface134
+    400120: polySurface135
+    400122: polySurface136
+    400124: polySurface137
+    400126: polySurface138
+    400128: polySurface139
+    400130: polySurface140
+    400132: polySurface141
+    400134: polySurface58
+    400136: polySurface59
+    400138: polySurface63
+    400140: polySurface64
+    400142: polySurface65
+    400144: polySurface66
+    400146: polySurface67
+    400148: polySurface68
+    400150: polySurface69
+    400152: polySurface70
+    400154: polySurface71
+    400156: polySurface72
+    400158: polySurface73
+    400160: polySurface74
+    400162: polySurface75
+    400164: polySurface76
+    400166: polySurface77
+    400168: polySurface78
+    400170: polySurface79
+    400172: polySurface80
+    400174: polySurface81
+    400176: polySurface82
+    400178: polySurface83
+    400180: polySurface84
+    400182: polySurface85
+    400184: polySurface86
+    400186: polySurface87
+    400188: polySurface88
+    400190: polySurface89
+    400192: polySurface90
+    400194: polySurface91
+    400196: polySurface92
+    400198: polySurface93
+    400200: polySurface94
+    400202: polySurface95
+    400204: polySurface96
+    400206: polySurface97
+    400208: polySurface98
+    400210: polySurface99
+    400212: Root_M
+    400214: Rump1_L
+    400216: Rump1_R
+    400218: Rump_L
+    400220: Rump_R
+    400222: Sphere001
+    400224: Sphere002
+    400226: Spine1_M
+    400228: Spine2_M
+    400230: Tail0_M
+    400232: Tail0Part1_M
+    400234: Tail1_M
+    400236: Tail1Part1_M
+    400238: Tail2_M
+    400240: Tail2Part1_M
+    400242: Tail3_M
+    400244: Tail3Part1_M
+    400246: Tail4_M
+    400248: Tail4Part1_M
+    400250: Tail5_M
+    400252: Tail5Part1_M
+    400254: Toes1_L
+    400256: Toes1_R
+    400258: Toes_L
+    400260: Toes_R
+    4300000: polySurface58
+    4300002: polySurface59
+    4300004: polySurface63
+    4300006: polySurface64
+    4300008: polySurface65
+    4300010: polySurface66
+    4300012: polySurface67
+    4300014: polySurface68
+    4300016: polySurface69
+    4300018: polySurface70
+    4300020: polySurface71
+    4300022: polySurface72
+    4300024: polySurface73
+    4300026: polySurface74
+    4300028: polySurface75
+    4300030: polySurface76
+    4300032: polySurface77
+    4300034: polySurface78
+    4300036: polySurface79
+    4300038: polySurface80
+    4300040: polySurface81
+    4300042: polySurface82
+    4300044: polySurface83
+    4300046: polySurface84
+    4300048: polySurface85
+    4300050: polySurface86
+    4300052: polySurface87
+    4300054: polySurface88
+    4300056: polySurface89
+    4300058: polySurface90
+    4300060: polySurface91
+    4300062: polySurface92
+    4300064: polySurface93
+    4300066: polySurface94
+    4300068: polySurface95
+    4300070: polySurface96
+    4300072: polySurface97
+    4300074: polySurface98
+    4300076: polySurface99
+    4300078: polySurface100
+    4300080: polySurface101
+    4300082: polySurface102
+    4300084: polySurface103
+    4300086: polySurface104
+    4300088: polySurface105
+    4300090: polySurface106
+    4300092: polySurface107
+    4300094: polySurface108
+    4300096: polySurface109
+    4300098: polySurface110
+    4300100: polySurface111
+    4300102: polySurface112
+    4300104: polySurface113
+    4300106: polySurface114
+    4300108: polySurface115
+    4300110: polySurface116
+    4300112: polySurface117
+    4300114: polySurface118
+    4300116: polySurface119
+    4300118: polySurface120
+    4300120: polySurface121
+    4300122: polySurface122
+    4300124: polySurface123
+    4300126: polySurface124
+    4300128: polySurface125
+    4300130: polySurface126
+    4300132: polySurface127
+    4300134: polySurface128
+    4300136: polySurface129
+    4300138: polySurface130
+    4300140: polySurface131
+    4300142: polySurface132
+    4300144: polySurface133
+    4300146: polySurface134
+    4300148: polySurface135
+    4300150: polySurface136
+    4300152: polySurface137
+    4300154: polySurface138
+    4300156: polySurface139
+    4300158: polySurface140
+    4300160: polySurface141
+    4300162: Sphere001
+    4300164: Sphere002
+    7400000: Idle
+    7400002: Interaction
+    9500000: //RootNode
+    13700000: polySurface100
+    13700002: polySurface101
+    13700004: polySurface102
+    13700006: polySurface103
+    13700008: polySurface104
+    13700010: polySurface105
+    13700012: polySurface106
+    13700014: polySurface107
+    13700016: polySurface108
+    13700018: polySurface109
+    13700020: polySurface110
+    13700022: polySurface111
+    13700024: polySurface112
+    13700026: polySurface113
+    13700028: polySurface114
+    13700030: polySurface115
+    13700032: polySurface116
+    13700034: polySurface117
+    13700036: polySurface118
+    13700038: polySurface119
+    13700040: polySurface120
+    13700042: polySurface121
+    13700044: polySurface122
+    13700046: polySurface123
+    13700048: polySurface124
+    13700050: polySurface125
+    13700052: polySurface126
+    13700054: polySurface127
+    13700056: polySurface128
+    13700058: polySurface129
+    13700060: polySurface130
+    13700062: polySurface131
+    13700064: polySurface132
+    13700066: polySurface133
+    13700068: polySurface134
+    13700070: polySurface135
+    13700072: polySurface136
+    13700074: polySurface137
+    13700076: polySurface138
+    13700078: polySurface139
+    13700080: polySurface140
+    13700082: polySurface141
+    13700084: polySurface58
+    13700086: polySurface59
+    13700088: polySurface63
+    13700090: polySurface64
+    13700092: polySurface65
+    13700094: polySurface66
+    13700096: polySurface67
+    13700098: polySurface68
+    13700100: polySurface69
+    13700102: polySurface70
+    13700104: polySurface71
+    13700106: polySurface72
+    13700108: polySurface73
+    13700110: polySurface74
+    13700112: polySurface75
+    13700114: polySurface76
+    13700116: polySurface77
+    13700118: polySurface78
+    13700120: polySurface79
+    13700122: polySurface80
+    13700124: polySurface81
+    13700126: polySurface82
+    13700128: polySurface83
+    13700130: polySurface84
+    13700132: polySurface85
+    13700134: polySurface86
+    13700136: polySurface87
+    13700138: polySurface88
+    13700140: polySurface89
+    13700142: polySurface90
+    13700144: polySurface91
+    13700146: polySurface92
+    13700148: polySurface93
+    13700150: polySurface94
+    13700152: polySurface95
+    13700154: polySurface96
+    13700156: polySurface97
+    13700158: polySurface98
+    13700160: polySurface99
+    13700162: Sphere001
+    13700164: Sphere002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 55
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface58
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface59
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface63
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface64
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface65
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface66
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface67
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface68
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface69
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface70
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface71
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface72
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface73
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface74
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface75
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface76
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface77
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface78
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface79
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface80
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface81
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface82
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface83
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface84
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface85
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface86
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface87
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface88
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface89
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface90
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface91
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface92
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface93
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface94
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface95
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface96
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface97
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface98
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface99
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface100
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface101
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface102
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface103
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface104
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface105
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface106
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface107
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface108
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface109
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface110
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface111
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface112
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface113
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface114
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface115
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface116
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface117
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface118
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface119
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface120
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface121
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface122
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface123
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface124
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface125
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface126
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface127
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface128
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface129
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface130
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface131
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface132
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface133
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface134
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface135
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface136
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface137
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface138
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface139
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface140
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface141
+        weight: 1
+      - path: Group
+        weight: 1
+      - path: Group/Main
+        weight: 1
+      - path: Group/Main/DeformationSystem
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Rump_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Rump_L/Hip_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Rump_L/Hip_L/Knee_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Rump_L/Hip_L/Knee_L/Ankle_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Rump_L/Hip_L/Knee_L/Ankle_L/Toes_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Rump_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Rump_R/Hip_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Rump_R/Hip_R/Knee_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Rump_R/Hip_R/Knee_R/Ankle_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Rump_R/Hip_R/Knee_R/Ankle_R/Toes_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M/Neck0_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M/Neck0_M/Neck1_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M/Neck0_M/Neck1_M/Neck5_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M/Neck0_M/Neck1_M/Neck5_M/Head_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M/Neck0_M/Neck1_M/Neck5_M/Head_M/Eye_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M/Neck0_M/Neck1_M/Neck5_M/Head_M/Eye_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M/Neck0_M/Neck1_M/Neck5_M/Head_M/Jaw_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M/Rump1_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M/Rump1_L/Hip1_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M/Rump1_L/Hip1_L/Knee1_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M/Rump1_L/Hip1_L/Knee1_L/Ankle1_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M/Rump1_L/Hip1_L/Knee1_L/Ankle1_L/Toes1_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M/Rump1_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M/Rump1_R/Hip1_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M/Rump1_R/Hip1_R/Knee1_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M/Rump1_R/Hip1_R/Knee1_R/Ankle1_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M/Rump1_R/Hip1_R/Knee1_R/Ankle1_R/Toes1_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M/Tail0Part1_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M/Tail0Part1_M/Tail1_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M/Tail0Part1_M/Tail1_M/Tail1Part1_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M/Tail0Part1_M/Tail1_M/Tail1Part1_M/Tail2_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M/Tail0Part1_M/Tail1_M/Tail1Part1_M/Tail2_M/Tail2Part1_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M/Tail0Part1_M/Tail1_M/Tail1Part1_M/Tail2_M/Tail2Part1_M/Tail3_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M/Tail0Part1_M/Tail1_M/Tail1Part1_M/Tail2_M/Tail2Part1_M/Tail3_M/Tail3Part1_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M/Tail0Part1_M/Tail1_M/Tail1Part1_M/Tail2_M/Tail2Part1_M/Tail3_M/Tail3Part1_M/Tail4_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M/Tail0Part1_M/Tail1_M/Tail1Part1_M/Tail2_M/Tail2Part1_M/Tail3_M/Tail3Part1_M/Tail4_M/Tail4Part1_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M/Tail0Part1_M/Tail1_M/Tail1Part1_M/Tail2_M/Tail2Part1_M/Tail3_M/Tail3Part1_M/Tail4_M/Tail4Part1_M/Tail5_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M/Tail0Part1_M/Tail1_M/Tail1Part1_M/Tail2_M/Tail2Part1_M/Tail3_M/Tail3Part1_M/Tail4_M/Tail4Part1_M/Tail5_M/Tail5Part1_M
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Sphere002
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Interaction
+      takeName: Take 001
+      firstFrame: 55
+      lastFrame: 110
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: Run
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.94692737
+        functionName: StopRun
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.88205135
+        functionName: StopAnim
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.35530087
+        functionName: Play
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface58
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface59
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface63
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface64
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface65
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface66
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface67
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface68
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface69
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface70
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface71
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface72
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface73
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface74
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface75
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface76
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface77
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface78
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface79
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface80
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface81
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface82
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface83
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface84
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface85
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface86
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface87
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface88
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface89
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface90
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface91
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface92
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface93
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface94
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface95
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface96
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface97
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface98
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface99
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface100
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface101
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface102
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface103
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface104
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface105
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface106
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface107
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface108
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface109
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface110
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface111
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface112
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface113
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface114
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface115
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface116
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface117
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface118
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface119
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface120
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface121
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface122
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface123
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface124
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface125
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface126
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface127
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface128
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface129
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface130
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface131
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface132
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface133
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface134
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface135
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface136
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface137
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface138
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface139
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface140
+        weight: 1
+      - path: D_Jinyunpelta:D_Jinyunpelta/polySurface141
+        weight: 1
+      - path: Group
+        weight: 1
+      - path: Group/Main
+        weight: 1
+      - path: Group/Main/DeformationSystem
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Rump_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Rump_L/Hip_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Rump_L/Hip_L/Knee_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Rump_L/Hip_L/Knee_L/Ankle_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Rump_L/Hip_L/Knee_L/Ankle_L/Toes_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Rump_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Rump_R/Hip_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Rump_R/Hip_R/Knee_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Rump_R/Hip_R/Knee_R/Ankle_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Rump_R/Hip_R/Knee_R/Ankle_R/Toes_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M/Neck0_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M/Neck0_M/Neck1_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M/Neck0_M/Neck1_M/Neck5_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M/Neck0_M/Neck1_M/Neck5_M/Head_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M/Neck0_M/Neck1_M/Neck5_M/Head_M/Eye_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M/Neck0_M/Neck1_M/Neck5_M/Head_M/Eye_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M/Neck0_M/Neck1_M/Neck5_M/Head_M/Jaw_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M/Rump1_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M/Rump1_L/Hip1_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M/Rump1_L/Hip1_L/Knee1_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M/Rump1_L/Hip1_L/Knee1_L/Ankle1_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M/Rump1_L/Hip1_L/Knee1_L/Ankle1_L/Toes1_L
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M/Rump1_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M/Rump1_R/Hip1_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M/Rump1_R/Hip1_R/Knee1_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M/Rump1_R/Hip1_R/Knee1_R/Ankle1_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Spine1_M/Spine2_M/Chest_M/Rump1_R/Hip1_R/Knee1_R/Ankle1_R/Toes1_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M/Tail0Part1_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M/Tail0Part1_M/Tail1_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M/Tail0Part1_M/Tail1_M/Tail1Part1_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M/Tail0Part1_M/Tail1_M/Tail1Part1_M/Tail2_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M/Tail0Part1_M/Tail1_M/Tail1Part1_M/Tail2_M/Tail2Part1_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M/Tail0Part1_M/Tail1_M/Tail1Part1_M/Tail2_M/Tail2Part1_M/Tail3_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M/Tail0Part1_M/Tail1_M/Tail1Part1_M/Tail2_M/Tail2Part1_M/Tail3_M/Tail3Part1_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M/Tail0Part1_M/Tail1_M/Tail1Part1_M/Tail2_M/Tail2Part1_M/Tail3_M/Tail3Part1_M/Tail4_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M/Tail0Part1_M/Tail1_M/Tail1Part1_M/Tail2_M/Tail2Part1_M/Tail3_M/Tail3Part1_M/Tail4_M/Tail4Part1_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M/Tail0Part1_M/Tail1_M/Tail1Part1_M/Tail2_M/Tail2Part1_M/Tail3_M/Tail3Part1_M/Tail4_M/Tail4Part1_M/Tail5_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/Tail0_M/Tail0Part1_M/Tail1_M/Tail1Part1_M/Tail2_M/Tail2Part1_M/Tail3_M/Tail3Part1_M/Tail4_M/Tail4Part1_M/Tail5_M/Tail5Part1_M
+        weight: 1
+      - path: Sphere001
+        weight: 1
+      - path: Sphere002
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

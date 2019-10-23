@@ -1,0 +1,258 @@
+﻿{
+	"infoList": [{
+	    "id":2,
+		"english":"Nothosaurus",
+		"name":"幻龙",
+		"info": "鳍龙类   Sauropterygia\n幻龙科   Nothosauridae\n属：幻龙   Nothosaurus\n食性：食鱼   Piscivorous\n时代：中晚三叠世   Middle to Late Triassic\n产地：欧洲：德国  Germany、西班牙  Spain等地；以色列  Israel； 中国  China\n\u3000\u3000幻龙体长1–4米，具有长脚趾，趾间有蹼，以便于游泳。幻龙虽然适应了水中生活，但远没有后期鱼龙类那么高度适应水生环境。它们可能主要在浅海捕食鱼类。"
+	},{
+	    "id":3,
+		"english":"Mixosaurus",
+		"name":"混鱼龙",
+		"info": "鱼龙类   Ichthyosauria\n混鱼龙类   Mixosauridae\n属：混鱼龙   Mixosaurus\n食性：食鱼   Piscivorous\n时代：中三叠世   Middle Triassic\n产地：中国  China，帝汶  Timor，印尼  Indonesia，意大利  Italy，斯匹次卑尔根群岛  Spitsbergen，\n司瓦尔巴特群岛  Svalbard archipelago，加拿大  Canada，阿拉斯加  Alaska，内华达  Nevada\n\u3000\u3000混鱼龙”意为“混合蜥蜴”，指示了这类爬行动物形态上介于早期似鳗鱼的鱼龙类和晚期似海豚的鱼龙类之间。早期鱼龙泳姿为鳗鱼式，靠身体整体扭动；而后期的鱼龙泳姿更接近海豚，主要靠尾鳍和背鳍。它们具有明显向下弯曲的尾巴，四肢呈桡足状，游泳速度较慢，生活在浅海环境，可能代表了鱼龙类逐渐适应海洋的过程。"
+	},{
+	    "id":4,
+		"english":"Shastasaurus",
+		"name":"萨斯特鱼龙",
+		"info": "鱼龙类   Ichthyosauria\n萨斯特鱼龙类   Shastasauridae\n属：萨斯特鱼龙   Shastasaurus\n食性：食鱼   Piscivorous\n时代：晚三叠世   Late Triassic\n产地：美国  America，加拿大  Canada，中国  China\n\u3000\u3000萨斯特鱼龙是大型鱼龙类，生存于晚三叠世的美国、加拿大和中国，一般体长约8米，与关岭鱼龙相近，根据不完整化石推测出的极限体长可达21米，是三叠纪最大的海生爬行动物。萨斯特鱼龙也有高度特化的鳍状肢，适合在海中游泳，是一种远洋深水生活的鱼龙类，以鱼类和头足类为食。北美的萨斯特鱼龙化石较为破碎，比如不完整的头骨、带有牙齿的颌骨碎片，以及零散的脊椎和肋骨，而中国的萨斯特鱼龙化石要完整得多，出产世界上这类大型鱼龙的完整的骨架。基于这些中国三叠纪的大型鱼龙化石，甚至可以判断出萨斯特鱼龙的两性异形。"
+	},{
+	    "id":5,
+		"english":"Keichousaurus",
+		"name":"贵州龙",
+		"info": "龙类   Ichthyosauria\n鳍龙类   Sauropterygia\n属：贵州龙属 Keichousaurus\n食性：食鱼   Piscivorous\n时代：中三叠世   Middle Triassic\n产地：中国  China\n\u3000\u3000贵州龙属（属名：Keichousaurus）是种三叠纪海生爬行动物，属于肿肋龙科，在三叠纪-侏罗纪灭绝事件中灭绝。它们的化石最初在1957年夏季发现于中国贵州省西南部，是中国最早发现的原始鳍龙类，因而得名。如今除了贵州外，其化石在云南和湖北亦有发现纪录。它们是最常被发现的鳍龙超目之一，而且经常发现接近完整、关节仍连接的化石，让它们成为收集者眼中的热门化石。贵州龙与肿肋龙科经常被分类于幻龙目，或是被列为鳍龙超目的原始、独立支系。"
+	},{
+	    "id":6,
+		"english":"Guanlong",
+		"name":"冠龙",
+		"info": "蜥臀类   Saurischia\n兽脚类   Theropoda\n暴龙超科   Tyrannosauroidea\n原角鼻龙科   Proceratosauridae\n属：冠龙   Guanlong\n食性：肉食性   Carnivorous\n时代：晚侏罗世   Late Jurassic\n产地：中国新疆五彩湾 Wucaiwan, Xinjiang, China\n\u3000\u3000冠龙是已知最早的暴龙类恐龙之一，生活于约1.6亿年前的晚侏罗世，比它著名的近亲霸王龙要早9200万年。它与泥潭龙被发现于同一化石坑中，可能是捕食泥潭龙时一起陷入泥潭。冠龙最显著的特征是头上发育的冠，但是它的冠很薄，可能只能用来装饰。"
+	},{
+	    "id":7,
+		"english":"Yinlong",
+		"name":"隐龙",
+		"info": "鸟臀类   Ornithischia\n角龙类   Ceratopsia\n属：隐龙   Yinglong\n食性：植食性   Herbivorous\n时代：晚侏罗世   Late Jurassic\n产地：中国新疆五彩湾  Wucaiwan, Xinjiang, China\n\u3000\u3000隐龙（属名：Yinlong）意为“隐藏的龙”，是基础角龙类的一属，生存于侏罗纪晚期的中亚。它们是种小型、原始、二足的草食性恐龙，身长约1.2米。隐龙是目前已知最古老、最原始的角龙下目恐龙。"
+	},{
+	    "id":8,
+		"english":"Limusaurus",
+		"name":"泥潭龙",
+		"info": "蜥臀类   Saurischia\n兽脚类   Theropoda\n角鼻龙类   Ceratosauria\n属：泥潭龙   Limusaurus\n食性：植食性   Herbivorous\n时代：晚侏罗世   Late Jurassic\n产地：中国新疆五彩湾  Wucaiwan, Xinjiang, China\n\u3000\u3000泥潭龙属是出现最早且最原始的植食性兽脚类恐龙。与绝大部分兽脚类恐龙不同，泥潭龙手指有四指，对其手指演化的研究有望消除古生物学和现代发育学有关鸟类手指同源问题产生的矛盾。幼年的泥潭龙长有牙齿，成年后牙齿就消失了，嘴巴变成喙，说明食性发生了变化，这在恐龙中是非常少见的。"
+	},{
+	    "id":9,
+		"english":"Caudipteryx",
+		"name":"尾羽龙",
+		"info": "蜥臀类   Saurischia\n兽脚类   Theropoda\n窃蛋龙类   Oviraptorosauria\n属：尾羽龙 Caudipteryx\n食性：杂食性   Omnivorous\n时代：早白垩世   Early Cretaceous\n产地：中国辽宁  Liaoning, China\n\u3000\u3000尾羽龙属（学名：Caudipteryx），是一属小型的兽脚类恐龙，约有孔雀大小。它的学名的意思是“尾巴羽毛”。它们的身上覆盖着羽毛，整体外观很像鸟类。"
+	},{
+	    "id":10,
+		"english":"Microraptor",
+		"name":"小盗龙",
+		"info": "蜥臀类   Saurischia\n兽脚类   Theropoda\n驰龙类 Dromaeosauridae\n属：小盗龙 Microraptor\n食性：肉食性   Carnivorous\n时代：早白垩世   Early Cretaceous\n产地：中国辽宁  Liaoning, China\n\u3000\u3000小盗龙属（属名：Microraptor，意为“小型盗贼”）是一种在中国辽宁省九佛堂组发现的小型驰龙科恐龙，生存于白垩纪早期阿普第阶，约1亿2000万年前，目前已发现近10个化石。如同始祖鸟，小盗龙的发现证实恐龙与鸟类之间有紧密的演化关系。小盗龙的四肢与尾巴拥有长正羽，根据这些特征，小盗龙的发表者徐星于2003年提出小盗龙可能用四翼在树林间滑翔。"
+	},{
+	    "id": 11,
+			"english": "Liaoningosaurus",
+			"name": "辽宁龙",
+			"info": "鸟臀类   Ornithischia\n装甲龙类 Thyreophora\n属：辽宁龙 Liaoningosaurus\n食性：植食性   Herbivorous\n时代：早白垩世   Early Cretaceous\n产地：中国辽宁  Liaoning, China\n\u3000\u3000辽宁龙属（学名：Liaoningosaurus）是下白垩纪恐龙的一属，是种独特的甲龙下目恐龙。正模标本（编号IVPP V12560）是一组完整的幼年个体骨骼，发现于中国辽宁省的义县组，地质年代为白垩纪早期的阿普第阶。模式种是奇异辽宁龙（L. paradoxus），是在2001年由徐星、汪筱林、尤海鲁等人所叙述、命名。属名意为“辽宁省的蜥蜴”，种名意指辽宁龙同时具有结节龙科、甲龙科的特征。"
+	},{
+	    "id":12,
+		"english":"Psittacosaurus",
+		"name":"鹦鹉嘴龙",
+		"info": "鸟臀类   Ornithischia\n角龙类   Ceratopsia\n鹦鹉嘴龙类   Psittacosauridae\n属：鹦鹉嘴龙   Psittacosaurus\n食性：植食性   Herbivorous\n时代：早白垩世   Early Cretaceous\n产地：中国 辽宁  Liaoning\n\u3000\u3000鹦鹉嘴龙属的成员生存于距今约1.2亿年前早白垩世的亚洲，属于二足行走的小型角龙类，因吻部似鹦鹉而得名。化石发现于中国、蒙古、俄罗斯，化石数量非常巨大。鹦鹉嘴龙吞食胃石来协助消化，如同现代鸟类。头骨两侧有尖锐的颧骨角，头后部的颈盾不发育。"
+	},{
+	    "id":13,
+		"english":"Huaxiapterus",
+		"name": "华夏翼龙",
+		"info": "目: 翼龙目 Pterosauria\n亚目: 翼手龙亚目 Pterodactyloidea\n科: 古神翼龙科 Tapejaridae\n属: 华夏翼龙 Huaxiapterus\n产地: 早白垩世，中国\n\u3000\u3000华夏翼龙属（属名：Huaxiapterus）是翼龙目翼手龙亚目古神翼龙科的一属，化石发现于中国辽宁省朝阳市的九佛堂组，年代为下白垩纪的巴列姆阶到阿普第阶。华夏翼龙是继中国翼龙之后，该地区所发现的第二种古神翼龙科成员。"
+	},{
+	    "id":14,
+		"english":"Zhangheotherium",
+		"name": "张和兽",
+		"info": "纲:  哺乳纲 Mammalia\n目:  对齿目 Symmetrodonta\n科:  张和兽科 Zhangheotheriidae\n属:  张和兽属 Zhangheotherium\n时代:  早白垩世   Early Cretaceous\n产地: 中国 辽宁  Liaoning\n\u3000\u3000张和兽，发现于中国辽宁热河生物群，是一种生活在早白垩纪的早期哺乳动物，属于鼹兽类，头身长15厘米，下颌全长35毫米。"
+	},{
+	    "id":15,
+		"english":"Zhejiangosaurus",
+		"name":"浙江龙",
+		"info": "鸟臀类   Ornithischia\n覆盾甲龙类   Thyreophora\n甲龙类   Ankylosauria\n结节龙科   Nodosauridae\n属：浙江龙   Zhejiangosaurus\n食性：植食性   Herbivorous\n时代：白垩纪中期   Cretaceous\n产地：浙江丽水  Lishui, Zhejiang, China\n\u3000\u3000浙江龙属是发现于浙江省丽水市四足行走的植食性恐龙，属于结节龙科，模式种是丽水浙江龙   Zhejiangosaurus lishuiensis。2000年，由浙江自然博物馆与丽水博物馆在丽水莲都区白前村发现并挖掘，化石包括椎体、腰带、后肢等化石，后经科学家研究命名为“丽水浙江龙”。丽水浙江龙尾椎保存完整，尾巴末端没有尾锤，是亚洲少数几种属于结节龙科的甲龙类。"
+	},{
+	    "id":16,
+		"english":"Yueosaurus",
+		"name":"越龙",
+		"info": "鸟臀类   Ornithischia\n鸟脚类   Ornithopoda\n属：越龙   Yueosaurus\n食性：植食性   Herbivorous\n时代：白垩纪中期   Cretaceous\n产地：浙江天台  Tiantai, Zhejiang, China\n\u3000\u3000越龙属是生存于白垩纪中期的小型二足行走的植食性恐龙，1998年由蒋岩根发现在天台上三线工地上发现并采集。该标本由颈椎、背椎、尾椎、前肢和后肢等部位的化石组成，是浙江省发现的保存最好的恐龙化石之一。从发现的材料估计，该恐龙长度不足1.5米，是目前浙江省发现的最小的恐龙。天台越龙是小型鸟脚类恐龙在中国东南部的首次发现，对浙江白垩纪的恐龙动物群的研究及小型鸟脚类恐龙的古地理分布和演化有着重要的意义。"
+	},{
+	    "id":17,
+		"english":"Therizinosauridae",
+		"name":"天台镰刀龙类",
+		"info": "蜥臀类   Saurischia\n兽脚类   Theropoda\n镰刀龙科   Therizinosauridae\n属种未命名\n食性：植食性   Herbivorous\n时代：白垩纪中期   Cretaceous\n产地：浙江天台  Tiantai,Zhejiang,China\n\u3000\u3000天台镰刀龙类为二足行走的植食性恐龙，属于兽脚类，由于其奇特的骨骼特征组合，镰刀龙的分类曾一度困扰着古生物学家。如其耻骨指向后下方，在其他兽脚类中，这特征只出现在鸟类及其近亲虚骨龙类中。此标本为当地村民张式亮发现，天台县政府组织了抢救性发掘，由中科院古脊椎与古动物研究所董枝明教授指导挖掘和复原，目前该化石的鉴定和研究工作正在进行中。"
+	},{
+	    "id":18,
+		"english":"Jinyunpelta",
+		"name":"缙云甲龙",
+		"info": "鸟臀类   Ornithischia\n覆盾甲龙类   Thyreophora\n甲龙类   Ankylosauria\n结节龙科   Ankylosauridae\n属：缙云甲龙   Jinyunpelta\n食性：植食性   Herbivorous\n时代：白垩纪中期   Cretaceous\n产地：浙江丽水  Lishui,Zhejiang,China\n\u3000\u3000 缙云甲龙是生存于白垩纪中期四足行走的植食性恐龙，是浙江发现的保存最好的恐龙化石。缙云甲龙属的模式种是中国缙云甲龙   Jinyunpelta sinensis 。化石于2013年由浙江自然博物馆、缙云县博物馆和福井县立恐龙博物馆在浙江缙云壶镇联合挖掘，目前已发现了至少5个不同大小的个体。保存的化石几乎涵盖了全身所有部位，其中包括近完整的头骨和发达的尾锤。研究显示中国缙云甲龙是最基干的甲龙亚科恐龙，也是时代最早的具有尾锤的甲龙类，缙云甲龙的发现对研究甲龙类尾锤的演化提供了重要材料。"
+	},{
+	    "id":19,
+		"english":"Tupuxuara",
+		"name":"妖精翼龙",
+		"info": "目:  翼龙目 Pterosauria\n亚目:  翼手龙亚目 Pterodactyloidea\n总科:  神龙翼龙超科 Azhdarchoidea\n新神龙翼龙类 Neoazhdarchia\n科:  掠海翼龙科 Thalassdromidae\n属:  妖精翼龙属 Tupuxuara\n时代：早白垩世\n产地:  巴西\n\u3000\u3000妖精翼龙属（属名：Tupuxuara）又名杜毕翼龙，是翼龙目神龙翼龙超科的一属，是种有头冠、没有牙齿的大型翼龙类，化石是在巴西的桑塔那组发现，地质年代为白垩纪早期。"
+	},{
+	    "id":20,
+		"english":"Pteranodon",
+		"name":"无齿翼龙属",
+		"info": "目： 翼龙目 Pterosauria\n科： 无齿翼龙科 Pteranodontidae\n属： 无齿翼龙属 Pteranodon\n年代与分布：生存于晚白垩世的北美洲，约9 千万年前到7 千万年前\n\n\u3000\u3000无齿翼龙，生存于晚白垩世的北美洲，约9千万年前到7千万年前，是最大的翼龙类之一，翼展长达9米长。与较早的翼龙类不同，无齿翼龙拥有缺乏牙齿的喙状嘴，类似现代鸟类。无齿翼龙因为头上的冠饰而著名。冠饰可能用于求偶时的炫耀，或作为方向舵用，或者两者都有。也有科学家认为头冠可以在飞行时保持身体的稳定。无齿翼龙已知以鱼类为食；曾在一个无齿翼龙化石的胃部位置发现鱼骨头化石，而在另一个无齿翼龙化石的嘴部，发现了已化石化的鱼类食糜。无齿翼龙的翼形状显示它们可能以类似现代信天翁的方式飞行，借由上升热气流来滑翔。这个论点是根据无齿翼龙有高长宽比（9:1），类似信天翁的比例（8:1）。信天翁将大部分活动时间利用在海洋上捕食鱼类，凭借气流和涡流的动力在空中动力滑翔，而不需要拍打翅膀。然而，其他科学家认为无齿翼龙可以拍打它们的翼，用它们的力量飞行。"
+	},{
+	    "id":21,
+		"english":"Plioplatecarpus",
+		"name":"扁掌龙",
+		"info": "沧龙科   Mosasauridae\n属：扁掌龙 Plioplatecarpus\n食性：食鱼   Piscivorous\n时代：晚白垩世 Late Cretaceous\n产地：欧洲\n\u3000\u3000与其他沧龙科相比，扁掌龙的眼睛相当大，而头部较短。扁掌龙的牙齿弯曲，数量约12颗，比大部分沧龙类还少。扁掌龙可能以小型动物为食。"
+	},{
+	    "id":22,
+		"english":"Elasmosaurus",
+		"name":"薄板龙",
+		"info": "蛇颈龙类 Plesiosauria\n属：薄板龙属   Elasmosaurus\n食性：食鱼   Piscivorous\n时代：晚白垩世 Late Cretaceous\n产地：美国\n\u3000\u3000薄板龙属（属名：Elasmosaurus，意为“薄板蜥蜴”）又名薄片龙，因为它骨盆里的板状骨头而得名，生存于白垩纪晚期，是种有极长颈部的蛇颈龙类。它身长14米，重达2,000公斤，是最长的蛇颈龙类。它拥有大型身体与四个鳍状肢。身长的一半为颈部，颈部有超过70个脊椎骨，超过任何动物。它的小型头部里有锐利牙齿。"
+	},{
+	    "id":23,
+		"english":"Herrerasaurus",
+		"name":"埃雷拉龙",
+		"info": "蜥臀类   Saurischia\n兽脚类   Theropoda\n埃雷拉龙类   Herrerasauridae\n属：埃雷拉龙   Herrerasaurus\n食性：肉食性   Carnivorous\n时代：晚三叠世   Late Triassic\n\u3000\u3000埃雷拉龙属是最早的兽脚类恐龙之一，是二足行走的中型恐龙，但多年以来，对这类恐龙的分类位置一直存在着争议。埃雷拉龙的头骨非常原始，更加类似于原始的主龙类头骨，与其他进步的兽脚类恐龙有较大的区别。牙齿显示埃雷拉龙应该为食肉恐龙，较长的后肢显示它们可能善于奔跑。虽然只有几米长，但他们是当时最大的二足动物之一。"
+	},{
+	    "id":24,
+		"english":"Toujiangosaurus",
+		"name":"沱江龙",
+		"info": "鸟臀类   Ornithischia\n有甲类   Thyreophora\n剑龙类   Stegosauria\n属：沱江龙   Tuojiangosaurus\n食性：植食性   Herbivorous\n时代：晚侏罗世   Late Jurassic\n产地：中国四川省自贡   Zigong, Sichuan, China\n\u3000\u3000沱江龙是生活于晚侏罗世的剑龙类，四足行走，是一种巨大、迟缓的植食性恐龙。沱江龙类似于北美洲的剑龙，体型比剑龙小，两排骨板沿着脖子和背部纵向排列，肩膀两侧与尾巴末端长有棘刺，骨板和棘刺可能用于防卫。但也有人认为骨板可能用于辨识同类，甚至控制体温。"
+	},{
+	    "id":25,
+		"english":"Triceratops",
+		"name":"三角龙",
+		"info": "鸟臀类   Ornithischia\n角龙类   Ceratopsia\n角龙科   Ceratopsidae\n属：三角龙   Triceratops\n食性：植食性   Herbivorous\n时代：晚白垩世   Late Cretaceous\n产地：美国  America\n\u3000\u3000       三角龙是一种中等大小四足行走的植食性恐龙，全长大约有7到10米，臀部高度为2.5到3米，重达6到12吨。它们头上有巨大的颈盾，以及三个角，因此得名三角龙。传统上，这些结构被认为是用来抵抗掠食动物的武器，但最近的理论认为这些结构可能用在求偶，以及展示支配地位。三角龙是最晚出现的恐龙之一，经常被作为白垩纪末期的代表化石。"
+	},{
+	    "id":26,
+		"english":"Tyrannosaurus",
+		"name":"暴龙",
+		"info": "蜥臀目   Saurischia\n兽脚类   Theropoda\n暴龙科   Tyrannosauridae\n属：暴龙   Tyrannosaurus\n种：霸王龙   Tyrannosaurus rex\n食性：肉食性   Carnivorous\n时代：晚白垩世   Late Cretaceous\n产地：美国  America，加拿大  Canada\n\u3000\u3000霸王龙是生活于距今约6800–6600万年前的白垩纪末期，为巨型肉食性恐龙，体长可达十三米，体重可达七吨，是最后灭绝的恐龙之一。它们是二足行走的强壮掠食动物，头骨巨大强壮，具有极强的咬合力，牙齿也粗壮，呈香蕉状。霸王龙的前肢相对于其身体非常短小，但研究显示也并非完全没有作用。霸王龙的后肢相对较长，并且非常强壮。"
+	},{
+	    "id":27,
+		"english":"Hadrosaurus",
+		"name":"鸭嘴龙",
+		"info": "鸟臀类   Ornithischia\n鸟脚类   Ornithopoda\n鸭嘴龙科   Hadrosauridae\n属：鸭嘴龙   Hadrosaurus\n食性：植食性   Herbivorous\n时代：晚白垩世   Late Cretaceous\n产地：美国蒙大拿州  Montana\n\u3000\u3000鸭嘴龙是生存于晚白垩世的北美，是一种四足行走的植食性恐龙，可以二足方式奔跑，鸭嘴龙嘴中排列着上千颗牙齿，每个颌骨最外层上有45–60颗牙齿，垂直复叠，最外层牙齿磨损后由下方的牙齿替代。牙齿显示它们吃树枝、树叶。鸭嘴龙作为一类群居的植食性恐龙，可能是晚白垩世大型暴龙类主要捕食对象。"
+	},{
+	    "id":28,
+		"english":"Euoplocephalus",
+		"name":"包头龙",
+		"info": "鸟臀类   Ornithischia\n覆盾甲龙类   Thyreophora\n甲龙类   Ankylosauria\n甲龙科   Ankylosauridae\n属：包头龙   Euoplocephalus\n食性：植食性   Herbivorous\n时代：晚白垩世\n产地：北美洲  North America\n\u3000\u3000包头龙是最大型的甲龙类恐龙之一。包头龙是保存最好的甲龙类之一，已发现多个完整的头骨。四肢短，后肢比前肢要长。吻部是宽广的喙，后段有颊齿，牙齿较小、呈叶状。包头龙具有很强的防御性，尤其是背部厚厚的甲板以及尾巴末端的尾锤，可以防御肉食恐龙。"
+	},{
+	    "id":29,
+		"english":"Eoraptor",
+		"name":"始盗龙",
+		"info": "蜥臀类   Saurischia\n兽脚类   Theropoda\n属：始盗龙   Eoraptor\n食性：肉食性   Carnivorous\n时代：晚三叠世   Late Triassic\n产地：阿根廷  Argentina\n\u3000\u3000 始盗龙是已发现的最早的恐龙之一，是二足行走的小型肉食恐龙。始盗龙前肢短小，后肢修长。前肢每只手都有五指，代表了它们是非常原始的恐龙类。始盗龙可能主要以小型动物为食物，它们可以快速的奔跑捕猎。始盗龙在恐龙的演化位置存在争议，最初发现时被归为兽脚类，但后来的研究将其归为蜥脚型类。"
+	},{
+	    "id":30,
+		"english":"Eodromaeus",
+		"name":"奔曙龙",
+		"info": "蜥臀类   Saurischia\n兽脚类   Theropoda\n属：曙奔龙 Eodromaeus\n食性：肉食性   Carnivorous\n时代：晚三叠世   Late Triassic\n产地：阿根廷  Argentina\n\u3000\u3000曙奔龙属（属名：Eodromaeus）又名晓奔龙，是基础兽脚亚目恐龙的一属。它们生存于2亿3200万到2亿2900万年前的三叠纪晚期的阿根廷。其正模标本（编号：PVSJ560）是一个接近完整的骨骼，在伊斯基瓜拉斯托被发现。名称由来为“黎明的跑者”。"
+	},{
+	    "id":31,
+		"english":"Coelophysis",
+		"name":"腔骨龙",
+		"info": "蜥臀类   Saurischia\n兽脚类   Theropoda\n属：腔骨龙 Coelophysis\n食性：肉食性   Carnivorous\n时代：晚三叠世   Late Triassic\n产地：北美洲\n\u3000\u3000腔骨龙属（学名：Coelophysis）又名虚形龙，是北美洲的小型、肉食性、双足恐龙，也是已知最早的恐龙之一。它首先出现于三叠纪晚期的诺利阶。腔骨龙是最早发现几副完整骨骼的恐龙。"
+	},{
+	    "id":32,
+		"english":"Anchiornis",
+		"name":"近鸟龙",
+		"info": "蜥臀类   Saurischia\n兽脚类   Theropoda\n伤齿龙类 Troodontidae\n属：近鸟龙 Anchiornis\n食性：肉食性   Carnivorous\n时代：晚侏罗世   Late Jurassic\n产地：中国北方\n\u3000\u3000近鸟龙属（学名：Anchiornis）又名近鸟，是种小型有羽毛恐龙，属于手盗龙类的近鸟龙科。化石发现于中国辽宁省，生存年代属于侏罗纪中期或晚期，是目前已知最早的有羽毛兽脚亚目恐龙。近鸟龙原本被认为是种原始的鸟翼类（Avialae），填补了恐龙演化至鸟类的形态学空白阶段。在新的标本被发现后，近鸟龙被改归类于伤齿龙科，是种原始近鸟类（Paraves）。由于近鸟龙与驰龙科的小盗龙有许多相似特征，这缩短了原始近鸟类之间的形态差距。"
+	},{
+	    "id":33,
+		"english":"Compsognathus",
+		"name":"美颌龙",
+		"info": "蜥臀类   Saurischia\n兽脚类   Theropoda\n虚骨龙类   Coelurosauria\n美颌龙科   Compsognathidae\n属：美颌龙   Compsognathus\n食性：肉食性    Carnivorous\n时代：晚侏罗世    Late Jurassic\n产地：德国  Germany，法国  French\n\u3000\u3000 美颌龙是二足行走的小型肉食性兽脚类恐龙。生存于距今约1.5亿年前晚侏罗世的欧洲。美颌龙具有较长的后肢及尾巴，长尾巴可在移动时平衡身体。前肢比后肢小，手有三指，都有利爪，用于抓捕猎物。头骨细长，眼睛相对于头骨的比例较大。"
+	},{
+	    "id":34,
+		"english":"Yunnanosaurus",
+		"name":"云南龙",
+		"info": "蜥臀类   Saurischia\n大椎龙类   Massospondylidae\n属：云南龙   Yunnanosaurus\n食性：植食性   Herbivorous\n时代：早中侏罗世   Early to Middle Jurassic\n\u3000\u3000云南龙生存于早侏罗世至中侏罗世，与禄丰龙亲缘关系较近的基干蜥脚型类恐龙。体长最大可达7米。此标本为幼年个体体长不足3米。"
+	},{
+	    "id":35,
+		"english":"Stegosaurus",
+		"name":"剑龙",
+		"info": "鸟臀类   Ornithischia\n覆盾甲龙类   Thyreophora\n剑龙类   Stegosauria\n属：剑龙   Stegosaurus\n食性：植食性   Herbivorous\n时代：晚侏罗世   Late Jurassic\n产地：北美   North America\n\u3000\u3000剑龙是最知名的恐龙之一，因其特殊的骨板与尾刺闻名。剑龙也是剑龙类中体型最大的，后肢比前肢更长。头部靠近地面，而硬挺的尾部则平举于空中。关于剑龙身上的尖刺与板状物的用途，有许多不同的推论。尖刺很可能是用来防御，而板状物除了防御之外，或许还能用来视觉展示与调节体温。"
+	},{
+	    "id":36,
+		"english":"Allosaurus",
+		"name":"异特龙",
+		"info": "蜥臀类   Saurischia\n兽脚类   Theropoda\n异特龙科   Allosauridae \n属：异特龙   Allosaurus\n食性：肉食性   Carnivorous\n时代：晚侏罗世   Late Jurassic\n产地：北美  North America\n\u3000\u3000异特龙是大型的二足行走、掠食性恐龙，平均体长约为8.5米，最长可达12到13米。异特龙是北美洲莫里森组最常见的大型掠食动物，它们可能以其他大型植食性恐龙为食。异特龙可能采用群体合作方式攻击蜥脚类恐龙。"
+	},{
+	    "id":37,
+		"english":"Velociraptor",
+		"name":"迅猛龙",
+		"info": "蜥臀类   Saurischia\n兽脚类   Theropoda\n驰龙类   Dromaeosauridae \n属：迅猛龙   Velociraptor\n食性：肉食性   Carnivorous\n时代：晚白垩世   Late Cretaceous\n产地：蒙古戈壁沙漠  Gobi, Mongolia\n\u3000\u3000迅猛龙是二足行走的肉食性恐龙，体型较小，小于其他的大型驰龙类恐龙，如恐爪龙。迅猛龙具有长而坚挺的尾巴，后脚第二趾具有大型的镰刀状趾爪，这些趾爪被认为用来杀死猎物。目前已发现超过10个迅猛龙标本，是驰龙类中数量最多的恐龙之一。其中最著名的标本保存了与原角龙斗争的瞬间。"
+	},{
+	    "id":38,
+		"english":"Protoceratops",
+		"name":"原角龙",
+		"info": "鸟臀类  Ornithischia\n角龙类   Ceratopsia\n原角龙类  Protoceratopsidae\n属：原角龙   Protoceratops\n食性：植食性   Herbivorous\n时代：晚白垩世  Late Cretaceous\n产地：蒙古戈壁沙漠   Gobi, Mongolia\n\u3000\u3000原角龙属于原角龙类，原角龙类是一群早期冠饰角龙类。不像晚期的冠饰角龙类恐龙，原角龙的体型较小，缺乏发育良好的角状物。原角龙身长1.5到2米，体型接近绵羊。它们有大型头盾，可能用来保护颈部、用于颌部肌肉附着、或用来辨认同种类动物。高度集中保存的大批标本，显示原角龙是群居动物。"
+	},{
+	    "id":39,
+		"english":"Oviraptor",
+		"name":"窃蛋龙",
+		"info": "蜥臀类   Saurischia\n兽脚类   Theropoda\n窃蛋龙类   Oviraptorosauria\n属：窃蛋龙   Oviraptor\n食性：杂食性   Omnivorous\n时代：晚白垩世   Late Cretaceous\n产地：蒙古国  Mongolia，中国内蒙古  Inner Mongolia, China\n\u3000\u3000窃蛋龙是最像鸟类的恐龙之一，它们不止有很多类似鸟类的形态学特征，还有很多类似鸟类的行为学特征。一些窃蛋龙类的化石被发现于蛋窝之上，最早，这被认为是它们在偷食其他恐龙的蛋，后被证实实际上是在孵蛋。窃蛋龙具有缺乏牙齿的喙状嘴，但有些窃蛋龙化石的胃容物中含有蜥蜴骨骼，因此窃蛋龙的食性可能为杂食。"
+	},{
+	    "id":40,
+		"english":"Archaeornithomi",
+		"name":"亚洲古似鸟龙",
+		"info": "属：古似鸟龙属   Archaeornithomi\n种：亚洲古似鸟龙   A. asiaticus\n食性：杂食性   Omnivorous\n\u3000\u3000古似鸟龙是恐龙家族中的一种十分奇特的成员。它是一种身高像大鸵鸟一样，双足行走的虚骨龙类恐龙，体长约2.5米，有着轻巧、苗条的体形和与鸟相象的外貌。它的头很小，眼大，上下颌没有牙齿（可能有角质喙），脖子细，尾巴长，有细长、顶端有爪的前肢和强有力的三趾式脚。"
+	},{
+	    "id":41,
+		"english":"Ornithomimus",
+		"name":"似鸟龙",
+		"info": "蜥臀类   Saurischia\n兽脚类   Theropoda\n似鸟龙科   Ornithomimidae\n属：似鸟龙   Ornithomimus\n食性：杂食性   Omnivorous\n时代：晚白垩世   Late Cretaceous\n产地：北美洲  North America\n\u3000\u3000似鸟龙是一类二组行走的兽脚类恐龙。体型类似鸵鸟，前后肢修长，骨头轻且中空，尾部长，这都指示了它们是优秀的奔跑者。有很多猜测认为似鸟龙可能以植物为食，但也有其为杂食性甚至滤食性的观点。"
+	},{
+	    "id":42,
+		"english":"Albertosaurus",
+		"name":"阿尔伯塔龙",
+		"info": "蜥臀类   Saurischia\n兽脚类   Theropoda\n暴龙科   Tyrannosauridae\n属：阿尔伯塔   Albertosaurus\n种：肉食阿尔伯塔龙    Albertosaurus sarcophagus\n食性：肉食性   Carnivorous\n时代：晚白垩世   Late Cretaceous\n产地：加拿大  Canada\n\u3000\u3000阿尔伯塔龙是二足行走的掠食性恐龙，头部较大，厚重，牙齿粗壮，前肢短小。相对近亲霸王龙，其体型较小，但仍是非常大型的肉食性恐龙。阿尔伯塔龙可能有群体性活动行为，很多化石点有多具骨骼一起被发现。相对于霸王龙，阿尔伯塔龙移动速度更快，生长速度更慢，因此体型更小。"
+	},{
+	    "id":43,
+		"english":"Maiasaura",
+		"name":"慈母龙",
+		"info": "鸟臀类   Ornithischia\n鸟脚类   Ornithopoda\n鸭嘴龙科   Hadrosauridaen\n属：慈母龙   Maiasaura\n食性：植食性   Herbivorous\n时代：晚白垩世   Late Cretaceous\n产地：美国蒙大拿州   Montana\n\u3000\u3000慈母龙是一类大型的鸭嘴龙类恐龙，具有扁平的喙。1978年杰克·霍纳（Jack Horner）等在蒙大拿州发现多处有蛋壳、孵出幼体的巢，将这种恐龙命名为慈母龙。慈母龙可能在巢穴集中地孵化幼体。慈母龙蛋近圆形，每窝蛋可多达30–40颗蛋，慈母龙将腐烂中的植物置入蛋窝中，利用植物腐烂产生的温度来孵化蛋，而非坐在蛋窝中。"
+	},{
+	    "id":44,
+		"english":"Ophthalmosaurus",
+		"name":"大眼鱼龙",
+		"info": "鱼龙类   Ichthyosauria\n大眼鱼龙科 Ophthalmosauridae\n属：大眼鱼龙 Ophthalmosaurus\n食性：食鱼   Piscivorous\n时代：中侏罗世-晚侏罗世   Middle-Late Jurassic\n产地：欧洲、北美洲、阿根廷\n\u3000\u3000大眼鱼龙属（属名：Ophthalmosaurus），希腊文意思为“眼睛蜥蜴”，因为它极大的眼睛而得名，是种生存在侏罗纪中到晚期的鱼龙类，约1亿6500万年前到1亿4500万年前。它拥有海豚形状的优美外形，身长6米，嘴部几乎没有牙齿，是为了捕食鱿鱼的适应结果。"
+	},{
+	    "id":45,
+		"english":"Platypterygius",
+		"name":"扁鳍鱼龙",
+		"info": "鱼龙类   Ichthyosauria\n大眼鱼龙科 Ophthalmosauridae\n属：扁鳍鱼龙 Platypterygius\n食性：食鱼   Piscivorous\n时代：中侏罗世-晚侏罗世   Middle-Late Jurassic\n产地：澳洲、俄罗斯、美国、哥伦比亚、西欧\n\u3000\u3000扁鳍鱼龙属（属名：Platypterygius）又名宽鳍鱼龙，属于鱼龙目大眼鱼龙科，它的外形呈传统的鱼龙类外形。它的身长7米。它有长口鼻部与强壮的鳍状尾。它前鳍状肢的手指比一般鱼龙类的手指还多；这些手指紧密地排列，形成宽广、平坦的形状。所以名字来自于它的扁平鳍状肢。除此之外，部分腕骨完全地消失。"
+	},{
+	    "id":46,
+		"english":"Zhejiangopterus",
+		"name":"浙江翼龙",
+		"info": "目： 翼龙目 Pterosauria\n亚目： 翼手龙亚目 Pterodactyloidea\n科： 神龙翼龙科 Azhdarchidae\n属： 浙江翼龙属 Zhejiangopterus\n时代：晚白垩世\n产地：中国浙江\n\u3000\u3000浙江翼龙属（属名：Zhejiangopterus）是翼龙目神龙翼龙科的一属，生活在白垩纪晚期的中国。在1994年，中国古生物学家蔡正全、魏丰将这些化石叙述、命名。模式种是临海浙江翼龙（Z. linhaiensis），属名、种名分别以浙江省、临海县为名。"
+	},{
+	    "id":47,
+		"english":"Darwinopterus",
+		"name":"达尔文翼龙",
+		"info": "目： 翼龙目 Pterosauria\n科： 悟空翼龙科 Wukongopteridae\n属： 达尔文翼龙属 Darwinopterus\n年代与分布：侏罗纪中期的中国，约1.6 亿年前。\n\u3000\u3000达尔文翼龙属于翼龙目悟空翼龙科，生存于侏罗纪中期的中国。达尔文翼龙同时带有早期喙嘴翼龙类、后期翼手龙类的混合特征，有助于了解翼龙类演化发展的遗失环节。目前已发现30到40个化石，都发现于中国辽宁省西部的髫髻山组，地质年代约1.6亿年前，相当于侏罗纪中期。从属于悟空翼龙科的翼龙，最大特点是同时带有喙嘴翼龙类的原始特征、以及翼手龙类的进步特征，有助于解释翼龙类演化发展的遗失环节。它们的尾部长、发达的第五脚趾等特征类似喙嘴翼龙类。颈椎长、鼻孔和眶前孔合成为一个鼻眶前孔，这些属于后期翼手龙类的特征；在早期喙嘴翼龙类，鼻孔、眶前孔是分离的。"
+	},{
+	    "id":48,
+		"english":"Dinocephalosaurus",
+		"name":"恐头龙",
+		"info": "原龙类  Protorosauria\n长颈龙科 Tanystrophidae\n恐头龙属 Dinocephalosaurus\n食性：食鱼   Piscivorous\n时代：中三叠世   Middle Triassic\n产地：中国  China\n\u3000\u3000恐头龙属（学名：Dinocephalosaurus）是种已灭绝爬行动物，属于原龙目的长颈龙科，生存于三叠纪中期的海洋，约2亿4500万年前。恐头龙身长2.7米，其中1.7米是颈部与头部。"
+	},{
+	    "id":49,
+		"english":"Sinosauropteryx",
+		"name":"中华龙鸟",
+		"info": "蜥臀类   Saurischia\n兽脚类   Theropoda\n虚骨龙类   Coelurosauria\n美颌龙科   Compsognathidae\n属：中华龙鸟属   Sinosauropteryx\n食性：肉食性    Carnivorous\n时代与产地：早白垩世，中国辽宁\n\u3000\u3000中华龙鸟属意为“中国的有翼蜥蜴”[2]，是目前所发现拥有化石化羽毛痕迹的恐龙中，年代最早而且最原始的，也是辽宁省热河群第一个发现的恐龙化石。中华龙鸟生存于早白垩世的中国，它们可能是美颌龙的近亲。"
+	},{
+	    "id":50,
+		"english":"Archaeopteryx",
+		"name":"始祖鸟",
+		"info": "蜥臀目 Saurischia\n兽脚亚目 Theropoda\n始祖鸟科 Archaeopterygidae\n始祖鸟属 Archaeopteryx\n晚侏罗世 德国\n\u3000\u3000始祖鸟生活于约1亿5千5百万到1亿5千万年前晚侏罗纪，化石分布在德国南部索伦霍芬石灰岩矿床。它的德文名字意指“原鸟”或“首先的鸟”。始祖鸟生活于恐龙时代，但是由于与同时拥有鸟类及兽脚亚目的特征，因此与恐龙有所区别。始祖鸟的大小及形状与喜鹊相似，它有着阔及圆的翅膀及长的尾巴。它可以生长达半米长。它的羽毛与现代鸟类相似，但它却在颚骨上有锋利的牙齿，脚上三趾都有弯爪及有长的骨质尾巴。这些特征正好与兽脚亚目恐龙相似，使得始祖鸟成为演化过程的重要角色。事实上，始祖鸟首次的发表是于1862年，亦即达尔文发表《物种起源》之后两年，使有关讨论演化之说更为激烈。现今有12个化石被分类为始祖鸟，是侏罗纪时期不多的羽毛证据之一。再者，由于它们拥有进步的性状，可见它们的起源应当更早。"
+	},{
+	    "id":51,
+		"english":"Prestosuchus",
+		"name":"迅猛鳄",
+		"info": "蜥形纲 Sauropsida\n镶嵌踝类主龙 Crurotarsi\n劳氏鳄目 Rauisuchia\n迅猛鳄科 Prestosuchidae\n迅猛鳄属 Prestosuchus\n时代与产地：晚三叠世的巴西\n\u3000\u3000迅猛鳄属属于劳氏鳄目迅猛鳄科。如同它的迅猛鳄科近亲，迅猛鳄拥有纵深的头颅，以及锯齿状牙齿。迅猛鳄生存于晚三叠世的巴西。迅猛鳄的身长接近5米。迅猛鳄的外表类似恐龙，因为它们的大型身体与直立姿势；但它们其实是主龙类，是恐龙的近亲。迅猛鳄是种伏击掠食动物，是凶猛的捕食者，以小型动物为食。"
+	},{
+	    "id":52,
+		"english":"Yandangornis",
+		"name":"雁荡鸟",
+		"info": "蜥臀目 Saurischia\n兽脚亚目 Theropoda\n鸟翼类 Avialae\n雁荡鸟属 Yandangornis\n晚白垩世 中国浙江\n\u3000\u3000雁荡鸟属是一类发现于距今月八千五百万，生活于中国浙江省的原始鸟类。雁荡鸟最早发现于浙江省临海市，标本现藏于浙江省自然博物馆。雁荡鸟的属名是为了纪念化石发现地附件著名山脉——雁荡山"
+	}]
+}

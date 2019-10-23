@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 34e61a701ac7c624ebbc95e526b0ed1b
+timeCreated: 1570955149
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Protoceratops38obj
+    100004: YuanJiaoLong_Rig:Ankle1_L
+    100006: YuanJiaoLong_Rig:Ankle1_R
+    100008: YuanJiaoLong_Rig:Ankle_L
+    100010: YuanJiaoLong_Rig:Ankle_R
+    100012: YuanJiaoLong_Rig:Chest_M
+    100014: YuanJiaoLong_Rig:D_Protoceratops1
+    100016: YuanJiaoLong_Rig:DeformationSystem
+    100018: YuanJiaoLong_Rig:Eye_L
+    100020: YuanJiaoLong_Rig:Eye_R
+    100022: YuanJiaoLong_Rig:EyeEnd_L
+    100024: YuanJiaoLong_Rig:EyeEnd_R
+    100026: YuanJiaoLong_Rig:Geometry
+    100028: YuanJiaoLong_Rig:Group
+    100030: YuanJiaoLong_Rig:Head_M
+    100032: YuanJiaoLong_Rig:HeadEnd_M
+    100034: YuanJiaoLong_Rig:Hip1_L
+    100036: YuanJiaoLong_Rig:Hip1_R
+    100038: YuanJiaoLong_Rig:Hip_L
+    100040: YuanJiaoLong_Rig:Hip_R
+    100042: YuanJiaoLong_Rig:Jaw_M
+    100044: YuanJiaoLong_Rig:JawEnd_M
+    100046: YuanJiaoLong_Rig:Knee1_L
+    100048: YuanJiaoLong_Rig:Knee1_R
+    100050: YuanJiaoLong_Rig:Knee_L
+    100052: YuanJiaoLong_Rig:Knee_R
+    100054: YuanJiaoLong_Rig:Main
+    100056: YuanJiaoLong_Rig:Neck0_M
+    100058: YuanJiaoLong_Rig:Neck5_M
+    100060: YuanJiaoLong_Rig:polySurface1
+    100062: YuanJiaoLong_Rig:polySurface2
+    100064: YuanJiaoLong_Rig:Root_M
+    100066: YuanJiaoLong_Rig:Rump1_L
+    100068: YuanJiaoLong_Rig:Rump1_R
+    100070: YuanJiaoLong_Rig:Rump_L
+    100072: YuanJiaoLong_Rig:Rump_R
+    100074: YuanJiaoLong_Rig:Spine1_M
+    100076: YuanJiaoLong_Rig:Spine2_M
+    100078: YuanJiaoLong_Rig:Tail0_M
+    100080: YuanJiaoLong_Rig:Tail1_M
+    100082: YuanJiaoLong_Rig:Tail2_M
+    100084: YuanJiaoLong_Rig:Tail3_M
+    100086: YuanJiaoLong_Rig:Tail4_M
+    100088: YuanJiaoLong_Rig:Tail5_M
+    100090: YuanJiaoLong_Rig:Tail6_M
+    100092: YuanJiaoLong_Rig:Toes1_L
+    100094: YuanJiaoLong_Rig:Toes1_R
+    100096: YuanJiaoLong_Rig:Toes_L
+    100098: YuanJiaoLong_Rig:Toes_R
+    100100: YuanJiaoLong_Rig:ToesEnd1_L
+    100102: YuanJiaoLong_Rig:ToesEnd1_R
+    100104: YuanJiaoLong_Rig:ToesEnd_L
+    100106: YuanJiaoLong_Rig:ToesEnd_R
+    400000: //RootNode
+    400002: Protoceratops38obj
+    400004: YuanJiaoLong_Rig:Ankle1_L
+    400006: YuanJiaoLong_Rig:Ankle1_R
+    400008: YuanJiaoLong_Rig:Ankle_L
+    400010: YuanJiaoLong_Rig:Ankle_R
+    400012: YuanJiaoLong_Rig:Chest_M
+    400014: YuanJiaoLong_Rig:D_Protoceratops1
+    400016: YuanJiaoLong_Rig:DeformationSystem
+    400018: YuanJiaoLong_Rig:Eye_L
+    400020: YuanJiaoLong_Rig:Eye_R
+    400022: YuanJiaoLong_Rig:EyeEnd_L
+    400024: YuanJiaoLong_Rig:EyeEnd_R
+    400026: YuanJiaoLong_Rig:Geometry
+    400028: YuanJiaoLong_Rig:Group
+    400030: YuanJiaoLong_Rig:Head_M
+    400032: YuanJiaoLong_Rig:HeadEnd_M
+    400034: YuanJiaoLong_Rig:Hip1_L
+    400036: YuanJiaoLong_Rig:Hip1_R
+    400038: YuanJiaoLong_Rig:Hip_L
+    400040: YuanJiaoLong_Rig:Hip_R
+    400042: YuanJiaoLong_Rig:Jaw_M
+    400044: YuanJiaoLong_Rig:JawEnd_M
+    400046: YuanJiaoLong_Rig:Knee1_L
+    400048: YuanJiaoLong_Rig:Knee1_R
+    400050: YuanJiaoLong_Rig:Knee_L
+    400052: YuanJiaoLong_Rig:Knee_R
+    400054: YuanJiaoLong_Rig:Main
+    400056: YuanJiaoLong_Rig:Neck0_M
+    400058: YuanJiaoLong_Rig:Neck5_M
+    400060: YuanJiaoLong_Rig:polySurface1
+    400062: YuanJiaoLong_Rig:polySurface2
+    400064: YuanJiaoLong_Rig:Root_M
+    400066: YuanJiaoLong_Rig:Rump1_L
+    400068: YuanJiaoLong_Rig:Rump1_R
+    400070: YuanJiaoLong_Rig:Rump_L
+    400072: YuanJiaoLong_Rig:Rump_R
+    400074: YuanJiaoLong_Rig:Spine1_M
+    400076: YuanJiaoLong_Rig:Spine2_M
+    400078: YuanJiaoLong_Rig:Tail0_M
+    400080: YuanJiaoLong_Rig:Tail1_M
+    400082: YuanJiaoLong_Rig:Tail2_M
+    400084: YuanJiaoLong_Rig:Tail3_M
+    400086: YuanJiaoLong_Rig:Tail4_M
+    400088: YuanJiaoLong_Rig:Tail5_M
+    400090: YuanJiaoLong_Rig:Tail6_M
+    400092: YuanJiaoLong_Rig:Toes1_L
+    400094: YuanJiaoLong_Rig:Toes1_R
+    400096: YuanJiaoLong_Rig:Toes_L
+    400098: YuanJiaoLong_Rig:Toes_R
+    400100: YuanJiaoLong_Rig:ToesEnd1_L
+    400102: YuanJiaoLong_Rig:ToesEnd1_R
+    400104: YuanJiaoLong_Rig:ToesEnd_L
+    400106: YuanJiaoLong_Rig:ToesEnd_R
+    4300000: YuanJiaoLong_Rig:polySurface1
+    4300002: YuanJiaoLong_Rig:polySurface2
+    4300004: Protoceratops38obj
+    7400000: Idle
+    7400002: Interaction
+    9500000: //RootNode
+    13700000: Protoceratops38obj
+    13700002: YuanJiaoLong_Rig:polySurface1
+    13700004: YuanJiaoLong_Rig:polySurface2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 40
+      lastFrame: 160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: YuanJiaoLong_Rig:D_Protoceratops1
+        weight: 1
+      - path: YuanJiaoLong_Rig:D_Protoceratops1/Protoceratops38obj
+        weight: 1
+      - path: YuanJiaoLong_Rig:D_Protoceratops1/YuanJiaoLong_Rig:polySurface1
+        weight: 1
+      - path: YuanJiaoLong_Rig:D_Protoceratops1/YuanJiaoLong_Rig:polySurface2
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Geometry
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Rump_L
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Rump_L/YuanJiaoLong_Rig:Hip_L
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Rump_L/YuanJiaoLong_Rig:Hip_L/YuanJiaoLong_Rig:Knee_L
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Rump_L/YuanJiaoLong_Rig:Hip_L/YuanJiaoLong_Rig:Knee_L/YuanJiaoLong_Rig:Ankle_L
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Rump_L/YuanJiaoLong_Rig:Hip_L/YuanJiaoLong_Rig:Knee_L/YuanJiaoLong_Rig:Ankle_L/YuanJiaoLong_Rig:Toes_L
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Rump_L/YuanJiaoLong_Rig:Hip_L/YuanJiaoLong_Rig:Knee_L/YuanJiaoLong_Rig:Ankle_L/YuanJiaoLong_Rig:Toes_L/YuanJiaoLong_Rig:ToesEnd_L
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Rump_R
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Rump_R/YuanJiaoLong_Rig:Hip_R
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Rump_R/YuanJiaoLong_Rig:Hip_R/YuanJiaoLong_Rig:Knee_R
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Rump_R/YuanJiaoLong_Rig:Hip_R/YuanJiaoLong_Rig:Knee_R/YuanJiaoLong_Rig:Ankle_R
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Rump_R/YuanJiaoLong_Rig:Hip_R/YuanJiaoLong_Rig:Knee_R/YuanJiaoLong_Rig:Ankle_R/YuanJiaoLong_Rig:Toes_R
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Rump_R/YuanJiaoLong_Rig:Hip_R/YuanJiaoLong_Rig:Knee_R/YuanJiaoLong_Rig:Ankle_R/YuanJiaoLong_Rig:Toes_R/YuanJiaoLong_Rig:ToesEnd_R
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Neck0_M
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Neck0_M/YuanJiaoLong_Rig:Neck5_M
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Neck0_M/YuanJiaoLong_Rig:Neck5_M/YuanJiaoLong_Rig:Head_M
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Neck0_M/YuanJiaoLong_Rig:Neck5_M/YuanJiaoLong_Rig:Head_M/YuanJiaoLong_Rig:Eye_L
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Neck0_M/YuanJiaoLong_Rig:Neck5_M/YuanJiaoLong_Rig:Head_M/YuanJiaoLong_Rig:Eye_L/YuanJiaoLong_Rig:EyeEnd_L
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Neck0_M/YuanJiaoLong_Rig:Neck5_M/YuanJiaoLong_Rig:Head_M/YuanJiaoLong_Rig:Eye_R
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Neck0_M/YuanJiaoLong_Rig:Neck5_M/YuanJiaoLong_Rig:Head_M/YuanJiaoLong_Rig:Eye_R/YuanJiaoLong_Rig:EyeEnd_R
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Neck0_M/YuanJiaoLong_Rig:Neck5_M/YuanJiaoLong_Rig:Head_M/YuanJiaoLong_Rig:HeadEnd_M
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Neck0_M/YuanJiaoLong_Rig:Neck5_M/YuanJiaoLong_Rig:Head_M/YuanJiaoLong_Rig:Jaw_M
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Neck0_M/YuanJiaoLong_Rig:Neck5_M/YuanJiaoLong_Rig:Head_M/YuanJiaoLong_Rig:Jaw_M/YuanJiaoLong_Rig:JawEnd_M
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Rump1_L
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Rump1_L/YuanJiaoLong_Rig:Hip1_L
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Rump1_L/YuanJiaoLong_Rig:Hip1_L/YuanJiaoLong_Rig:Knee1_L
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Rump1_L/YuanJiaoLong_Rig:Hip1_L/YuanJiaoLong_Rig:Knee1_L/YuanJiaoLong_Rig:Ankle1_L
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Rump1_L/YuanJiaoLong_Rig:Hip1_L/YuanJiaoLong_Rig:Knee1_L/YuanJiaoLong_Rig:Ankle1_L/YuanJiaoLong_Rig:Toes1_L
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Rump1_L/YuanJiaoLong_Rig:Hip1_L/YuanJiaoLong_Rig:Knee1_L/YuanJiaoLong_Rig:Ankle1_L/YuanJiaoLong_Rig:Toes1_L/YuanJiaoLong_Rig:ToesEnd1_L
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Rump1_R
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Rump1_R/YuanJiaoLong_Rig:Hip1_R
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Rump1_R/YuanJiaoLong_Rig:Hip1_R/YuanJiaoLong_Rig:Knee1_R
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Rump1_R/YuanJiaoLong_Rig:Hip1_R/YuanJiaoLong_Rig:Knee1_R/YuanJiaoLong_Rig:Ankle1_R
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Rump1_R/YuanJiaoLong_Rig:Hip1_R/YuanJiaoLong_Rig:Knee1_R/YuanJiaoLong_Rig:Ankle1_R/YuanJiaoLong_Rig:Toes1_R
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Rump1_R/YuanJiaoLong_Rig:Hip1_R/YuanJiaoLong_Rig:Knee1_R/YuanJiaoLong_Rig:Ankle1_R/YuanJiaoLong_Rig:Toes1_R/YuanJiaoLong_Rig:ToesEnd1_R
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Tail0_M
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Tail0_M/YuanJiaoLong_Rig:Tail1_M
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Tail0_M/YuanJiaoLong_Rig:Tail1_M/YuanJiaoLong_Rig:Tail2_M
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Tail0_M/YuanJiaoLong_Rig:Tail1_M/YuanJiaoLong_Rig:Tail2_M/YuanJiaoLong_Rig:Tail3_M
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Tail0_M/YuanJiaoLong_Rig:Tail1_M/YuanJiaoLong_Rig:Tail2_M/YuanJiaoLong_Rig:Tail3_M/YuanJiaoLong_Rig:Tail4_M
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Tail0_M/YuanJiaoLong_Rig:Tail1_M/YuanJiaoLong_Rig:Tail2_M/YuanJiaoLong_Rig:Tail3_M/YuanJiaoLong_Rig:Tail4_M/YuanJiaoLong_Rig:Tail5_M
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Tail0_M/YuanJiaoLong_Rig:Tail1_M/YuanJiaoLong_Rig:Tail2_M/YuanJiaoLong_Rig:Tail3_M/YuanJiaoLong_Rig:Tail4_M/YuanJiaoLong_Rig:Tail5_M/YuanJiaoLong_Rig:Tail6_M
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Interaction
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: Run
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.85897434
+        functionName: StopAnim
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.91061455
+        functionName: StopRun
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.1833811
+        functionName: Play
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: YuanJiaoLong_Rig:D_Protoceratops1
+        weight: 1
+      - path: YuanJiaoLong_Rig:D_Protoceratops1/Protoceratops38obj
+        weight: 1
+      - path: YuanJiaoLong_Rig:D_Protoceratops1/YuanJiaoLong_Rig:polySurface1
+        weight: 1
+      - path: YuanJiaoLong_Rig:D_Protoceratops1/YuanJiaoLong_Rig:polySurface2
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Geometry
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Rump_L
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Rump_L/YuanJiaoLong_Rig:Hip_L
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Rump_L/YuanJiaoLong_Rig:Hip_L/YuanJiaoLong_Rig:Knee_L
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Rump_L/YuanJiaoLong_Rig:Hip_L/YuanJiaoLong_Rig:Knee_L/YuanJiaoLong_Rig:Ankle_L
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Rump_L/YuanJiaoLong_Rig:Hip_L/YuanJiaoLong_Rig:Knee_L/YuanJiaoLong_Rig:Ankle_L/YuanJiaoLong_Rig:Toes_L
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Rump_L/YuanJiaoLong_Rig:Hip_L/YuanJiaoLong_Rig:Knee_L/YuanJiaoLong_Rig:Ankle_L/YuanJiaoLong_Rig:Toes_L/YuanJiaoLong_Rig:ToesEnd_L
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Rump_R
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Rump_R/YuanJiaoLong_Rig:Hip_R
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Rump_R/YuanJiaoLong_Rig:Hip_R/YuanJiaoLong_Rig:Knee_R
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Rump_R/YuanJiaoLong_Rig:Hip_R/YuanJiaoLong_Rig:Knee_R/YuanJiaoLong_Rig:Ankle_R
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Rump_R/YuanJiaoLong_Rig:Hip_R/YuanJiaoLong_Rig:Knee_R/YuanJiaoLong_Rig:Ankle_R/YuanJiaoLong_Rig:Toes_R
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Rump_R/YuanJiaoLong_Rig:Hip_R/YuanJiaoLong_Rig:Knee_R/YuanJiaoLong_Rig:Ankle_R/YuanJiaoLong_Rig:Toes_R/YuanJiaoLong_Rig:ToesEnd_R
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Neck0_M
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Neck0_M/YuanJiaoLong_Rig:Neck5_M
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Neck0_M/YuanJiaoLong_Rig:Neck5_M/YuanJiaoLong_Rig:Head_M
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Neck0_M/YuanJiaoLong_Rig:Neck5_M/YuanJiaoLong_Rig:Head_M/YuanJiaoLong_Rig:Eye_L
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Neck0_M/YuanJiaoLong_Rig:Neck5_M/YuanJiaoLong_Rig:Head_M/YuanJiaoLong_Rig:Eye_L/YuanJiaoLong_Rig:EyeEnd_L
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Neck0_M/YuanJiaoLong_Rig:Neck5_M/YuanJiaoLong_Rig:Head_M/YuanJiaoLong_Rig:Eye_R
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Neck0_M/YuanJiaoLong_Rig:Neck5_M/YuanJiaoLong_Rig:Head_M/YuanJiaoLong_Rig:Eye_R/YuanJiaoLong_Rig:EyeEnd_R
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Neck0_M/YuanJiaoLong_Rig:Neck5_M/YuanJiaoLong_Rig:Head_M/YuanJiaoLong_Rig:HeadEnd_M
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Neck0_M/YuanJiaoLong_Rig:Neck5_M/YuanJiaoLong_Rig:Head_M/YuanJiaoLong_Rig:Jaw_M
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Neck0_M/YuanJiaoLong_Rig:Neck5_M/YuanJiaoLong_Rig:Head_M/YuanJiaoLong_Rig:Jaw_M/YuanJiaoLong_Rig:JawEnd_M
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Rump1_L
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Rump1_L/YuanJiaoLong_Rig:Hip1_L
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Rump1_L/YuanJiaoLong_Rig:Hip1_L/YuanJiaoLong_Rig:Knee1_L
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Rump1_L/YuanJiaoLong_Rig:Hip1_L/YuanJiaoLong_Rig:Knee1_L/YuanJiaoLong_Rig:Ankle1_L
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Rump1_L/YuanJiaoLong_Rig:Hip1_L/YuanJiaoLong_Rig:Knee1_L/YuanJiaoLong_Rig:Ankle1_L/YuanJiaoLong_Rig:Toes1_L
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Rump1_L/YuanJiaoLong_Rig:Hip1_L/YuanJiaoLong_Rig:Knee1_L/YuanJiaoLong_Rig:Ankle1_L/YuanJiaoLong_Rig:Toes1_L/YuanJiaoLong_Rig:ToesEnd1_L
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Rump1_R
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Rump1_R/YuanJiaoLong_Rig:Hip1_R
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Rump1_R/YuanJiaoLong_Rig:Hip1_R/YuanJiaoLong_Rig:Knee1_R
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Rump1_R/YuanJiaoLong_Rig:Hip1_R/YuanJiaoLong_Rig:Knee1_R/YuanJiaoLong_Rig:Ankle1_R
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Rump1_R/YuanJiaoLong_Rig:Hip1_R/YuanJiaoLong_Rig:Knee1_R/YuanJiaoLong_Rig:Ankle1_R/YuanJiaoLong_Rig:Toes1_R
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Spine1_M/YuanJiaoLong_Rig:Spine2_M/YuanJiaoLong_Rig:Chest_M/YuanJiaoLong_Rig:Rump1_R/YuanJiaoLong_Rig:Hip1_R/YuanJiaoLong_Rig:Knee1_R/YuanJiaoLong_Rig:Ankle1_R/YuanJiaoLong_Rig:Toes1_R/YuanJiaoLong_Rig:ToesEnd1_R
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Tail0_M
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Tail0_M/YuanJiaoLong_Rig:Tail1_M
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Tail0_M/YuanJiaoLong_Rig:Tail1_M/YuanJiaoLong_Rig:Tail2_M
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Tail0_M/YuanJiaoLong_Rig:Tail1_M/YuanJiaoLong_Rig:Tail2_M/YuanJiaoLong_Rig:Tail3_M
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Tail0_M/YuanJiaoLong_Rig:Tail1_M/YuanJiaoLong_Rig:Tail2_M/YuanJiaoLong_Rig:Tail3_M/YuanJiaoLong_Rig:Tail4_M
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Tail0_M/YuanJiaoLong_Rig:Tail1_M/YuanJiaoLong_Rig:Tail2_M/YuanJiaoLong_Rig:Tail3_M/YuanJiaoLong_Rig:Tail4_M/YuanJiaoLong_Rig:Tail5_M
+        weight: 1
+      - path: YuanJiaoLong_Rig:Group/YuanJiaoLong_Rig:Main/YuanJiaoLong_Rig:DeformationSystem/YuanJiaoLong_Rig:Root_M/YuanJiaoLong_Rig:Tail0_M/YuanJiaoLong_Rig:Tail1_M/YuanJiaoLong_Rig:Tail2_M/YuanJiaoLong_Rig:Tail3_M/YuanJiaoLong_Rig:Tail4_M/YuanJiaoLong_Rig:Tail5_M/YuanJiaoLong_Rig:Tail6_M
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,844 @@
+fileFormatVersion: 2
+guid: a744133e9b8ae6d4eb1331a5e2dc9c5e
+timeCreated: 1570955276
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Velociraptor37
+    100002: //RootNode
+    100004: Velociraptor37_chi
+    100006: Velociraptor37_chi_MeshPart0
+    100008: Velociraptor37_chi_MeshPart1
+    100010: Velociraptor37_chi_MeshPart2
+    100012: Velociraptor37_chi_MeshPart3
+    100014: Velociraptor37_chi_MeshPart4
+    100016: Velociraptor37_chi_MeshPart5
+    100018: Velociraptor37_yan
+    100020: Velociraptor37_yan2
+    100022: XunMengLong_Rig_02:Ankle_L
+    100024: XunMengLong_Rig_02:Ankle_R
+    100026: XunMengLong_Rig_02:Chest_M
+    100028: XunMengLong_Rig_02:Eye_L
+    100030: XunMengLong_Rig_02:Eye_R
+    100032: XunMengLong_Rig_02:FKExtraRump1_R
+    100034: XunMengLong_Rig_02:FKGlobalRump1_R
+    100036: XunMengLong_Rig_02:FKGlobalStaticRump1_R
+    100038: XunMengLong_Rig_02:FKIKParentConstraintLeg1_R
+    100040: XunMengLong_Rig_02:FKOffsetRump1_R
+    100042: XunMengLong_Rig_02:Head_M
+    100044: XunMengLong_Rig_02:Hip1_L
+    100046: XunMengLong_Rig_02:Hip1_R
+    100048: XunMengLong_Rig_02:Hip_L
+    100050: XunMengLong_Rig_02:Hip_R
+    100052: XunMengLong_Rig_02:IndexFinger1_L
+    100054: XunMengLong_Rig_02:IndexFinger1_R
+    100056: XunMengLong_Rig_02:IndexFinger2_L
+    100058: XunMengLong_Rig_02:IndexFinger2_R
+    100060: XunMengLong_Rig_02:Jaw_M
+    100062: XunMengLong_Rig_02:Knee1_L
+    100064: XunMengLong_Rig_02:Knee1_R
+    100066: XunMengLong_Rig_02:Knee_L
+    100068: XunMengLong_Rig_02:Knee_R
+    100070: XunMengLong_Rig_02:LegAimRump1_R
+    100072: XunMengLong_Rig_02:LongToe1_L
+    100074: XunMengLong_Rig_02:LongToe1_R
+    100076: XunMengLong_Rig_02:LongToe2_L
+    100078: XunMengLong_Rig_02:LongToe2_R
+    100080: XunMengLong_Rig_02:MiddleFinger1_L
+    100082: XunMengLong_Rig_02:MiddleFinger1_R
+    100084: XunMengLong_Rig_02:MiddleFinger2_L
+    100086: XunMengLong_Rig_02:MiddleFinger2_R
+    100088: XunMengLong_Rig_02:MiddleFinger3_L
+    100090: XunMengLong_Rig_02:MiddleFinger3_R
+    100092: XunMengLong_Rig_02:MiddleToe1_L
+    100094: XunMengLong_Rig_02:MiddleToe1_R
+    100096: XunMengLong_Rig_02:MiddleToe2_L
+    100098: XunMengLong_Rig_02:MiddleToe2_R
+    100100: XunMengLong_Rig_02:MiddleToe3_L
+    100102: XunMengLong_Rig_02:MiddleToe3_R
+    100104: XunMengLong_Rig_02:Neck0_M
+    100106: XunMengLong_Rig_02:Neck1_M
+    100108: XunMengLong_Rig_02:Neck2_M
+    100110: XunMengLong_Rig_02:Neck3_M
+    100112: XunMengLong_Rig_02:RingFinger1_L
+    100114: XunMengLong_Rig_02:RingFinger1_R
+    100116: XunMengLong_Rig_02:RingFinger2_L
+    100118: XunMengLong_Rig_02:RingFinger2_R
+    100120: XunMengLong_Rig_02:RingFinger3_L
+    100122: XunMengLong_Rig_02:RingFinger3_R
+    100124: XunMengLong_Rig_02:RingToe1_L
+    100126: XunMengLong_Rig_02:RingToe1_R
+    100128: XunMengLong_Rig_02:RingToe2_L
+    100130: XunMengLong_Rig_02:RingToe2_R
+    100132: XunMengLong_Rig_02:RingToe3_L
+    100134: XunMengLong_Rig_02:RingToe3_R
+    100136: XunMengLong_Rig_02:Root_M
+    100138: XunMengLong_Rig_02:Rump1_L
+    100140: XunMengLong_Rig_02:Rump1_R
+    100142: XunMengLong_Rig_02:Rump_L
+    100144: XunMengLong_Rig_02:Rump_R
+    100146: XunMengLong_Rig_02:Spine1_M
+    100148: XunMengLong_Rig_02:Spine2_M
+    100150: XunMengLong_Rig_02:Tail0_M
+    100152: XunMengLong_Rig_02:Tail0Part1_M
+    100154: XunMengLong_Rig_02:Tail0Part2_M
+    100156: XunMengLong_Rig_02:Tail0Part3_M
+    100158: XunMengLong_Rig_02:Tail0Part4_M
+    100160: XunMengLong_Rig_02:Tail1_M
+    100162: XunMengLong_Rig_02:Tail1Part1_M
+    100164: XunMengLong_Rig_02:Tail1Part2_M
+    100166: XunMengLong_Rig_02:Tail1Part3_M
+    100168: XunMengLong_Rig_02:Tail1Part4_M
+    100170: XunMengLong_Rig_02:Tail2_M
+    100172: XunMengLong_Rig_02:Tail2Part1_M
+    100174: XunMengLong_Rig_02:Tail2Part2_M
+    100176: XunMengLong_Rig_02:Tail2Part3_M
+    100178: XunMengLong_Rig_02:Tail2Part4_M
+    100180: XunMengLong_Rig_02:Tail3_M
+    100182: XunMengLong_Rig_02:Tail3Part1_M
+    100184: XunMengLong_Rig_02:Tail3Part2_M
+    100186: XunMengLong_Rig_02:Tail3Part3_M
+    100188: XunMengLong_Rig_02:Tail3Part4_M
+    100190: XunMengLong_Rig_02:Tail4_M
+    100192: XunMengLong_Rig_02:Tail4Part1_M
+    100194: XunMengLong_Rig_02:Tail4Part2_M
+    100196: XunMengLong_Rig_02:Tail4Part3_M
+    100198: XunMengLong_Rig_02:Tail4Part4_M
+    100200: XunMengLong_Rig_02:Tail5_M
+    100202: XunMengLong_Rig_02:Tail5Part1_M
+    100204: XunMengLong_Rig_02:Tail5Part2_M
+    100206: XunMengLong_Rig_02:Tail5Part3_M
+    100208: XunMengLong_Rig_02:Tail5Part4_M
+    100210: XunMengLong_Rig_02:Toes_L
+    100212: XunMengLong_Rig_02:Toes_R
+    100214: XunMengLong_Rig_02:tooth_mod
+    100216: XunMengLong_Rig_02:Wrist_L
+    100218: XunMengLong_Rig_02:Wrist_R
+    400000: //RootNode
+    400002: Velociraptor37
+    400004: Velociraptor37_chi
+    400006: Velociraptor37_chi_MeshPart0
+    400008: Velociraptor37_chi_MeshPart1
+    400010: Velociraptor37_chi_MeshPart2
+    400012: Velociraptor37_chi_MeshPart3
+    400014: Velociraptor37_chi_MeshPart4
+    400016: Velociraptor37_chi_MeshPart5
+    400018: Velociraptor37_yan
+    400020: Velociraptor37_yan2
+    400022: XunMengLong_Rig_02:Ankle_L
+    400024: XunMengLong_Rig_02:Ankle_R
+    400026: XunMengLong_Rig_02:Chest_M
+    400028: XunMengLong_Rig_02:Eye_L
+    400030: XunMengLong_Rig_02:Eye_R
+    400032: XunMengLong_Rig_02:FKExtraRump1_R
+    400034: XunMengLong_Rig_02:FKGlobalRump1_R
+    400036: XunMengLong_Rig_02:FKGlobalStaticRump1_R
+    400038: XunMengLong_Rig_02:FKIKParentConstraintLeg1_R
+    400040: XunMengLong_Rig_02:FKOffsetRump1_R
+    400042: XunMengLong_Rig_02:Head_M
+    400044: XunMengLong_Rig_02:Hip1_L
+    400046: XunMengLong_Rig_02:Hip1_R
+    400048: XunMengLong_Rig_02:Hip_L
+    400050: XunMengLong_Rig_02:Hip_R
+    400052: XunMengLong_Rig_02:IndexFinger1_L
+    400054: XunMengLong_Rig_02:IndexFinger1_R
+    400056: XunMengLong_Rig_02:IndexFinger2_L
+    400058: XunMengLong_Rig_02:IndexFinger2_R
+    400060: XunMengLong_Rig_02:Jaw_M
+    400062: XunMengLong_Rig_02:Knee1_L
+    400064: XunMengLong_Rig_02:Knee1_R
+    400066: XunMengLong_Rig_02:Knee_L
+    400068: XunMengLong_Rig_02:Knee_R
+    400070: XunMengLong_Rig_02:LegAimRump1_R
+    400072: XunMengLong_Rig_02:LongToe1_L
+    400074: XunMengLong_Rig_02:LongToe1_R
+    400076: XunMengLong_Rig_02:LongToe2_L
+    400078: XunMengLong_Rig_02:LongToe2_R
+    400080: XunMengLong_Rig_02:MiddleFinger1_L
+    400082: XunMengLong_Rig_02:MiddleFinger1_R
+    400084: XunMengLong_Rig_02:MiddleFinger2_L
+    400086: XunMengLong_Rig_02:MiddleFinger2_R
+    400088: XunMengLong_Rig_02:MiddleFinger3_L
+    400090: XunMengLong_Rig_02:MiddleFinger3_R
+    400092: XunMengLong_Rig_02:MiddleToe1_L
+    400094: XunMengLong_Rig_02:MiddleToe1_R
+    400096: XunMengLong_Rig_02:MiddleToe2_L
+    400098: XunMengLong_Rig_02:MiddleToe2_R
+    400100: XunMengLong_Rig_02:MiddleToe3_L
+    400102: XunMengLong_Rig_02:MiddleToe3_R
+    400104: XunMengLong_Rig_02:Neck0_M
+    400106: XunMengLong_Rig_02:Neck1_M
+    400108: XunMengLong_Rig_02:Neck2_M
+    400110: XunMengLong_Rig_02:Neck3_M
+    400112: XunMengLong_Rig_02:RingFinger1_L
+    400114: XunMengLong_Rig_02:RingFinger1_R
+    400116: XunMengLong_Rig_02:RingFinger2_L
+    400118: XunMengLong_Rig_02:RingFinger2_R
+    400120: XunMengLong_Rig_02:RingFinger3_L
+    400122: XunMengLong_Rig_02:RingFinger3_R
+    400124: XunMengLong_Rig_02:RingToe1_L
+    400126: XunMengLong_Rig_02:RingToe1_R
+    400128: XunMengLong_Rig_02:RingToe2_L
+    400130: XunMengLong_Rig_02:RingToe2_R
+    400132: XunMengLong_Rig_02:RingToe3_L
+    400134: XunMengLong_Rig_02:RingToe3_R
+    400136: XunMengLong_Rig_02:Root_M
+    400138: XunMengLong_Rig_02:Rump1_L
+    400140: XunMengLong_Rig_02:Rump1_R
+    400142: XunMengLong_Rig_02:Rump_L
+    400144: XunMengLong_Rig_02:Rump_R
+    400146: XunMengLong_Rig_02:Spine1_M
+    400148: XunMengLong_Rig_02:Spine2_M
+    400150: XunMengLong_Rig_02:Tail0_M
+    400152: XunMengLong_Rig_02:Tail0Part1_M
+    400154: XunMengLong_Rig_02:Tail0Part2_M
+    400156: XunMengLong_Rig_02:Tail0Part3_M
+    400158: XunMengLong_Rig_02:Tail0Part4_M
+    400160: XunMengLong_Rig_02:Tail1_M
+    400162: XunMengLong_Rig_02:Tail1Part1_M
+    400164: XunMengLong_Rig_02:Tail1Part2_M
+    400166: XunMengLong_Rig_02:Tail1Part3_M
+    400168: XunMengLong_Rig_02:Tail1Part4_M
+    400170: XunMengLong_Rig_02:Tail2_M
+    400172: XunMengLong_Rig_02:Tail2Part1_M
+    400174: XunMengLong_Rig_02:Tail2Part2_M
+    400176: XunMengLong_Rig_02:Tail2Part3_M
+    400178: XunMengLong_Rig_02:Tail2Part4_M
+    400180: XunMengLong_Rig_02:Tail3_M
+    400182: XunMengLong_Rig_02:Tail3Part1_M
+    400184: XunMengLong_Rig_02:Tail3Part2_M
+    400186: XunMengLong_Rig_02:Tail3Part3_M
+    400188: XunMengLong_Rig_02:Tail3Part4_M
+    400190: XunMengLong_Rig_02:Tail4_M
+    400192: XunMengLong_Rig_02:Tail4Part1_M
+    400194: XunMengLong_Rig_02:Tail4Part2_M
+    400196: XunMengLong_Rig_02:Tail4Part3_M
+    400198: XunMengLong_Rig_02:Tail4Part4_M
+    400200: XunMengLong_Rig_02:Tail5_M
+    400202: XunMengLong_Rig_02:Tail5Part1_M
+    400204: XunMengLong_Rig_02:Tail5Part2_M
+    400206: XunMengLong_Rig_02:Tail5Part3_M
+    400208: XunMengLong_Rig_02:Tail5Part4_M
+    400210: XunMengLong_Rig_02:Toes_L
+    400212: XunMengLong_Rig_02:Toes_R
+    400214: XunMengLong_Rig_02:tooth_mod
+    400216: XunMengLong_Rig_02:Wrist_L
+    400218: XunMengLong_Rig_02:Wrist_R
+    4300000: Velociraptor37
+    4300002: XunMengLong_Rig_02:tooth_mod
+    4300004: Velociraptor37_chi_MeshPart0
+    4300006: Velociraptor37_chi_MeshPart1
+    4300008: Velociraptor37_chi_MeshPart2
+    4300010: Velociraptor37_chi_MeshPart3
+    4300012: Velociraptor37_chi_MeshPart4
+    4300014: Velociraptor37_chi_MeshPart5
+    4300016: Velociraptor37_yan
+    4300018: Velociraptor37_yan2
+    7400000: Idle
+    7400002: Interaction
+    9500000: //RootNode
+    13700000: Velociraptor37
+    13700002: Velociraptor37_chi_MeshPart0
+    13700004: Velociraptor37_chi_MeshPart1
+    13700006: Velociraptor37_chi_MeshPart2
+    13700008: Velociraptor37_chi_MeshPart3
+    13700010: Velociraptor37_chi_MeshPart4
+    13700012: Velociraptor37_chi_MeshPart5
+    13700014: Velociraptor37_yan
+    13700016: Velociraptor37_yan2
+    13700018: XunMengLong_Rig_02:tooth_mod
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 55
+      lastFrame: 130
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Velociraptor37
+        weight: 1
+      - path: Velociraptor37_chi
+        weight: 1
+      - path: Velociraptor37_chi/Velociraptor37_chi_MeshPart0
+        weight: 1
+      - path: Velociraptor37_chi/Velociraptor37_chi_MeshPart1
+        weight: 1
+      - path: Velociraptor37_chi/Velociraptor37_chi_MeshPart2
+        weight: 1
+      - path: Velociraptor37_chi/Velociraptor37_chi_MeshPart3
+        weight: 1
+      - path: Velociraptor37_chi/Velociraptor37_chi_MeshPart4
+        weight: 1
+      - path: Velociraptor37_chi/Velociraptor37_chi_MeshPart5
+        weight: 1
+      - path: Velociraptor37_yan
+        weight: 1
+      - path: Velociraptor37_yan2
+        weight: 1
+      - path: XunMengLong_Rig_02:FKIKParentConstraintLeg1_R
+        weight: 1
+      - path: XunMengLong_Rig_02:LegAimRump1_R
+        weight: 1
+      - path: XunMengLong_Rig_02:LegAimRump1_R/XunMengLong_Rig_02:FKOffsetRump1_R
+        weight: 1
+      - path: XunMengLong_Rig_02:LegAimRump1_R/XunMengLong_Rig_02:FKOffsetRump1_R/XunMengLong_Rig_02:FKGlobalStaticRump1_R
+        weight: 1
+      - path: XunMengLong_Rig_02:LegAimRump1_R/XunMengLong_Rig_02:FKOffsetRump1_R/XunMengLong_Rig_02:FKGlobalStaticRump1_R/XunMengLong_Rig_02:FKGlobalRump1_R
+        weight: 1
+      - path: XunMengLong_Rig_02:LegAimRump1_R/XunMengLong_Rig_02:FKOffsetRump1_R/XunMengLong_Rig_02:FKGlobalStaticRump1_R/XunMengLong_Rig_02:FKGlobalRump1_R/XunMengLong_Rig_02:FKExtraRump1_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_L/XunMengLong_Rig_02:Hip_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_L/XunMengLong_Rig_02:Hip_L/XunMengLong_Rig_02:Knee_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_L/XunMengLong_Rig_02:Hip_L/XunMengLong_Rig_02:Knee_L/XunMengLong_Rig_02:Ankle_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_L/XunMengLong_Rig_02:Hip_L/XunMengLong_Rig_02:Knee_L/XunMengLong_Rig_02:Ankle_L/XunMengLong_Rig_02:Toes_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_L/XunMengLong_Rig_02:Hip_L/XunMengLong_Rig_02:Knee_L/XunMengLong_Rig_02:Ankle_L/XunMengLong_Rig_02:Toes_L/XunMengLong_Rig_02:LongToe1_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_L/XunMengLong_Rig_02:Hip_L/XunMengLong_Rig_02:Knee_L/XunMengLong_Rig_02:Ankle_L/XunMengLong_Rig_02:Toes_L/XunMengLong_Rig_02:LongToe1_L/XunMengLong_Rig_02:LongToe2_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_L/XunMengLong_Rig_02:Hip_L/XunMengLong_Rig_02:Knee_L/XunMengLong_Rig_02:Ankle_L/XunMengLong_Rig_02:Toes_L/XunMengLong_Rig_02:MiddleToe1_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_L/XunMengLong_Rig_02:Hip_L/XunMengLong_Rig_02:Knee_L/XunMengLong_Rig_02:Ankle_L/XunMengLong_Rig_02:Toes_L/XunMengLong_Rig_02:MiddleToe1_L/XunMengLong_Rig_02:MiddleToe2_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_L/XunMengLong_Rig_02:Hip_L/XunMengLong_Rig_02:Knee_L/XunMengLong_Rig_02:Ankle_L/XunMengLong_Rig_02:Toes_L/XunMengLong_Rig_02:MiddleToe1_L/XunMengLong_Rig_02:MiddleToe2_L/XunMengLong_Rig_02:MiddleToe3_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_L/XunMengLong_Rig_02:Hip_L/XunMengLong_Rig_02:Knee_L/XunMengLong_Rig_02:Ankle_L/XunMengLong_Rig_02:Toes_L/XunMengLong_Rig_02:RingToe1_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_L/XunMengLong_Rig_02:Hip_L/XunMengLong_Rig_02:Knee_L/XunMengLong_Rig_02:Ankle_L/XunMengLong_Rig_02:Toes_L/XunMengLong_Rig_02:RingToe1_L/XunMengLong_Rig_02:RingToe2_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_L/XunMengLong_Rig_02:Hip_L/XunMengLong_Rig_02:Knee_L/XunMengLong_Rig_02:Ankle_L/XunMengLong_Rig_02:Toes_L/XunMengLong_Rig_02:RingToe1_L/XunMengLong_Rig_02:RingToe2_L/XunMengLong_Rig_02:RingToe3_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_R/XunMengLong_Rig_02:Hip_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_R/XunMengLong_Rig_02:Hip_R/XunMengLong_Rig_02:Knee_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_R/XunMengLong_Rig_02:Hip_R/XunMengLong_Rig_02:Knee_R/XunMengLong_Rig_02:Ankle_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_R/XunMengLong_Rig_02:Hip_R/XunMengLong_Rig_02:Knee_R/XunMengLong_Rig_02:Ankle_R/XunMengLong_Rig_02:Toes_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_R/XunMengLong_Rig_02:Hip_R/XunMengLong_Rig_02:Knee_R/XunMengLong_Rig_02:Ankle_R/XunMengLong_Rig_02:Toes_R/XunMengLong_Rig_02:LongToe1_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_R/XunMengLong_Rig_02:Hip_R/XunMengLong_Rig_02:Knee_R/XunMengLong_Rig_02:Ankle_R/XunMengLong_Rig_02:Toes_R/XunMengLong_Rig_02:LongToe1_R/XunMengLong_Rig_02:LongToe2_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_R/XunMengLong_Rig_02:Hip_R/XunMengLong_Rig_02:Knee_R/XunMengLong_Rig_02:Ankle_R/XunMengLong_Rig_02:Toes_R/XunMengLong_Rig_02:MiddleToe1_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_R/XunMengLong_Rig_02:Hip_R/XunMengLong_Rig_02:Knee_R/XunMengLong_Rig_02:Ankle_R/XunMengLong_Rig_02:Toes_R/XunMengLong_Rig_02:MiddleToe1_R/XunMengLong_Rig_02:MiddleToe2_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_R/XunMengLong_Rig_02:Hip_R/XunMengLong_Rig_02:Knee_R/XunMengLong_Rig_02:Ankle_R/XunMengLong_Rig_02:Toes_R/XunMengLong_Rig_02:MiddleToe1_R/XunMengLong_Rig_02:MiddleToe2_R/XunMengLong_Rig_02:MiddleToe3_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_R/XunMengLong_Rig_02:Hip_R/XunMengLong_Rig_02:Knee_R/XunMengLong_Rig_02:Ankle_R/XunMengLong_Rig_02:Toes_R/XunMengLong_Rig_02:RingToe1_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_R/XunMengLong_Rig_02:Hip_R/XunMengLong_Rig_02:Knee_R/XunMengLong_Rig_02:Ankle_R/XunMengLong_Rig_02:Toes_R/XunMengLong_Rig_02:RingToe1_R/XunMengLong_Rig_02:RingToe2_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_R/XunMengLong_Rig_02:Hip_R/XunMengLong_Rig_02:Knee_R/XunMengLong_Rig_02:Ankle_R/XunMengLong_Rig_02:Toes_R/XunMengLong_Rig_02:RingToe1_R/XunMengLong_Rig_02:RingToe2_R/XunMengLong_Rig_02:RingToe3_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Neck0_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Neck0_M/XunMengLong_Rig_02:Neck1_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Neck0_M/XunMengLong_Rig_02:Neck1_M/XunMengLong_Rig_02:Neck2_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Neck0_M/XunMengLong_Rig_02:Neck1_M/XunMengLong_Rig_02:Neck2_M/XunMengLong_Rig_02:Neck3_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Neck0_M/XunMengLong_Rig_02:Neck1_M/XunMengLong_Rig_02:Neck2_M/XunMengLong_Rig_02:Neck3_M/XunMengLong_Rig_02:Head_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Neck0_M/XunMengLong_Rig_02:Neck1_M/XunMengLong_Rig_02:Neck2_M/XunMengLong_Rig_02:Neck3_M/XunMengLong_Rig_02:Head_M/XunMengLong_Rig_02:Eye_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Neck0_M/XunMengLong_Rig_02:Neck1_M/XunMengLong_Rig_02:Neck2_M/XunMengLong_Rig_02:Neck3_M/XunMengLong_Rig_02:Head_M/XunMengLong_Rig_02:Eye_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Neck0_M/XunMengLong_Rig_02:Neck1_M/XunMengLong_Rig_02:Neck2_M/XunMengLong_Rig_02:Neck3_M/XunMengLong_Rig_02:Head_M/XunMengLong_Rig_02:Jaw_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_L/XunMengLong_Rig_02:Hip1_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_L/XunMengLong_Rig_02:Hip1_L/XunMengLong_Rig_02:Knee1_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_L/XunMengLong_Rig_02:Hip1_L/XunMengLong_Rig_02:Knee1_L/XunMengLong_Rig_02:Wrist_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_L/XunMengLong_Rig_02:Hip1_L/XunMengLong_Rig_02:Knee1_L/XunMengLong_Rig_02:Wrist_L/XunMengLong_Rig_02:IndexFinger1_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_L/XunMengLong_Rig_02:Hip1_L/XunMengLong_Rig_02:Knee1_L/XunMengLong_Rig_02:Wrist_L/XunMengLong_Rig_02:IndexFinger1_L/XunMengLong_Rig_02:IndexFinger2_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_L/XunMengLong_Rig_02:Hip1_L/XunMengLong_Rig_02:Knee1_L/XunMengLong_Rig_02:Wrist_L/XunMengLong_Rig_02:MiddleFinger1_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_L/XunMengLong_Rig_02:Hip1_L/XunMengLong_Rig_02:Knee1_L/XunMengLong_Rig_02:Wrist_L/XunMengLong_Rig_02:MiddleFinger1_L/XunMengLong_Rig_02:MiddleFinger2_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_L/XunMengLong_Rig_02:Hip1_L/XunMengLong_Rig_02:Knee1_L/XunMengLong_Rig_02:Wrist_L/XunMengLong_Rig_02:MiddleFinger1_L/XunMengLong_Rig_02:MiddleFinger2_L/XunMengLong_Rig_02:MiddleFinger3_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_L/XunMengLong_Rig_02:Hip1_L/XunMengLong_Rig_02:Knee1_L/XunMengLong_Rig_02:Wrist_L/XunMengLong_Rig_02:RingFinger1_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_L/XunMengLong_Rig_02:Hip1_L/XunMengLong_Rig_02:Knee1_L/XunMengLong_Rig_02:Wrist_L/XunMengLong_Rig_02:RingFinger1_L/XunMengLong_Rig_02:RingFinger2_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_L/XunMengLong_Rig_02:Hip1_L/XunMengLong_Rig_02:Knee1_L/XunMengLong_Rig_02:Wrist_L/XunMengLong_Rig_02:RingFinger1_L/XunMengLong_Rig_02:RingFinger2_L/XunMengLong_Rig_02:RingFinger3_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_R/XunMengLong_Rig_02:Hip1_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_R/XunMengLong_Rig_02:Hip1_R/XunMengLong_Rig_02:Knee1_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_R/XunMengLong_Rig_02:Hip1_R/XunMengLong_Rig_02:Knee1_R/XunMengLong_Rig_02:Wrist_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_R/XunMengLong_Rig_02:Hip1_R/XunMengLong_Rig_02:Knee1_R/XunMengLong_Rig_02:Wrist_R/XunMengLong_Rig_02:IndexFinger1_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_R/XunMengLong_Rig_02:Hip1_R/XunMengLong_Rig_02:Knee1_R/XunMengLong_Rig_02:Wrist_R/XunMengLong_Rig_02:IndexFinger1_R/XunMengLong_Rig_02:IndexFinger2_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_R/XunMengLong_Rig_02:Hip1_R/XunMengLong_Rig_02:Knee1_R/XunMengLong_Rig_02:Wrist_R/XunMengLong_Rig_02:MiddleFinger1_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_R/XunMengLong_Rig_02:Hip1_R/XunMengLong_Rig_02:Knee1_R/XunMengLong_Rig_02:Wrist_R/XunMengLong_Rig_02:MiddleFinger1_R/XunMengLong_Rig_02:MiddleFinger2_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_R/XunMengLong_Rig_02:Hip1_R/XunMengLong_Rig_02:Knee1_R/XunMengLong_Rig_02:Wrist_R/XunMengLong_Rig_02:MiddleFinger1_R/XunMengLong_Rig_02:MiddleFinger2_R/XunMengLong_Rig_02:MiddleFinger3_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_R/XunMengLong_Rig_02:Hip1_R/XunMengLong_Rig_02:Knee1_R/XunMengLong_Rig_02:Wrist_R/XunMengLong_Rig_02:RingFinger1_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_R/XunMengLong_Rig_02:Hip1_R/XunMengLong_Rig_02:Knee1_R/XunMengLong_Rig_02:Wrist_R/XunMengLong_Rig_02:RingFinger1_R/XunMengLong_Rig_02:RingFinger2_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_R/XunMengLong_Rig_02:Hip1_R/XunMengLong_Rig_02:Knee1_R/XunMengLong_Rig_02:Wrist_R/XunMengLong_Rig_02:RingFinger1_R/XunMengLong_Rig_02:RingFinger2_R/XunMengLong_Rig_02:RingFinger3_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M/XunMengLong_Rig_02:Tail2Part3_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M/XunMengLong_Rig_02:Tail2Part3_M/XunMengLong_Rig_02:Tail2Part4_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M/XunMengLong_Rig_02:Tail2Part3_M/XunMengLong_Rig_02:Tail2Part4_M/XunMengLong_Rig_02:Tail3_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M/XunMengLong_Rig_02:Tail2Part3_M/XunMengLong_Rig_02:Tail2Part4_M/XunMengLong_Rig_02:Tail3_M/XunMengLong_Rig_02:Tail3Part1_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M/XunMengLong_Rig_02:Tail2Part3_M/XunMengLong_Rig_02:Tail2Part4_M/XunMengLong_Rig_02:Tail3_M/XunMengLong_Rig_02:Tail3Part1_M/XunMengLong_Rig_02:Tail3Part2_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M/XunMengLong_Rig_02:Tail2Part3_M/XunMengLong_Rig_02:Tail2Part4_M/XunMengLong_Rig_02:Tail3_M/XunMengLong_Rig_02:Tail3Part1_M/XunMengLong_Rig_02:Tail3Part2_M/XunMengLong_Rig_02:Tail3Part3_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M/XunMengLong_Rig_02:Tail2Part3_M/XunMengLong_Rig_02:Tail2Part4_M/XunMengLong_Rig_02:Tail3_M/XunMengLong_Rig_02:Tail3Part1_M/XunMengLong_Rig_02:Tail3Part2_M/XunMengLong_Rig_02:Tail3Part3_M/XunMengLong_Rig_02:Tail3Part4_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M/XunMengLong_Rig_02:Tail2Part3_M/XunMengLong_Rig_02:Tail2Part4_M/XunMengLong_Rig_02:Tail3_M/XunMengLong_Rig_02:Tail3Part1_M/XunMengLong_Rig_02:Tail3Part2_M/XunMengLong_Rig_02:Tail3Part3_M/XunMengLong_Rig_02:Tail3Part4_M/XunMengLong_Rig_02:Tail4_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M/XunMengLong_Rig_02:Tail2Part3_M/XunMengLong_Rig_02:Tail2Part4_M/XunMengLong_Rig_02:Tail3_M/XunMengLong_Rig_02:Tail3Part1_M/XunMengLong_Rig_02:Tail3Part2_M/XunMengLong_Rig_02:Tail3Part3_M/XunMengLong_Rig_02:Tail3Part4_M/XunMengLong_Rig_02:Tail4_M/XunMengLong_Rig_02:Tail4Part1_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M/XunMengLong_Rig_02:Tail2Part3_M/XunMengLong_Rig_02:Tail2Part4_M/XunMengLong_Rig_02:Tail3_M/XunMengLong_Rig_02:Tail3Part1_M/XunMengLong_Rig_02:Tail3Part2_M/XunMengLong_Rig_02:Tail3Part3_M/XunMengLong_Rig_02:Tail3Part4_M/XunMengLong_Rig_02:Tail4_M/XunMengLong_Rig_02:Tail4Part1_M/XunMengLong_Rig_02:Tail4Part2_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M/XunMengLong_Rig_02:Tail2Part3_M/XunMengLong_Rig_02:Tail2Part4_M/XunMengLong_Rig_02:Tail3_M/XunMengLong_Rig_02:Tail3Part1_M/XunMengLong_Rig_02:Tail3Part2_M/XunMengLong_Rig_02:Tail3Part3_M/XunMengLong_Rig_02:Tail3Part4_M/XunMengLong_Rig_02:Tail4_M/XunMengLong_Rig_02:Tail4Part1_M/XunMengLong_Rig_02:Tail4Part2_M/XunMengLong_Rig_02:Tail4Part3_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M/XunMengLong_Rig_02:Tail2Part3_M/XunMengLong_Rig_02:Tail2Part4_M/XunMengLong_Rig_02:Tail3_M/XunMengLong_Rig_02:Tail3Part1_M/XunMengLong_Rig_02:Tail3Part2_M/XunMengLong_Rig_02:Tail3Part3_M/XunMengLong_Rig_02:Tail3Part4_M/XunMengLong_Rig_02:Tail4_M/XunMengLong_Rig_02:Tail4Part1_M/XunMengLong_Rig_02:Tail4Part2_M/XunMengLong_Rig_02:Tail4Part3_M/XunMengLong_Rig_02:Tail4Part4_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M/XunMengLong_Rig_02:Tail2Part3_M/XunMengLong_Rig_02:Tail2Part4_M/XunMengLong_Rig_02:Tail3_M/XunMengLong_Rig_02:Tail3Part1_M/XunMengLong_Rig_02:Tail3Part2_M/XunMengLong_Rig_02:Tail3Part3_M/XunMengLong_Rig_02:Tail3Part4_M/XunMengLong_Rig_02:Tail4_M/XunMengLong_Rig_02:Tail4Part1_M/XunMengLong_Rig_02:Tail4Part2_M/XunMengLong_Rig_02:Tail4Part3_M/XunMengLong_Rig_02:Tail4Part4_M/XunMengLong_Rig_02:Tail5_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M/XunMengLong_Rig_02:Tail2Part3_M/XunMengLong_Rig_02:Tail2Part4_M/XunMengLong_Rig_02:Tail3_M/XunMengLong_Rig_02:Tail3Part1_M/XunMengLong_Rig_02:Tail3Part2_M/XunMengLong_Rig_02:Tail3Part3_M/XunMengLong_Rig_02:Tail3Part4_M/XunMengLong_Rig_02:Tail4_M/XunMengLong_Rig_02:Tail4Part1_M/XunMengLong_Rig_02:Tail4Part2_M/XunMengLong_Rig_02:Tail4Part3_M/XunMengLong_Rig_02:Tail4Part4_M/XunMengLong_Rig_02:Tail5_M/XunMengLong_Rig_02:Tail5Part1_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M/XunMengLong_Rig_02:Tail2Part3_M/XunMengLong_Rig_02:Tail2Part4_M/XunMengLong_Rig_02:Tail3_M/XunMengLong_Rig_02:Tail3Part1_M/XunMengLong_Rig_02:Tail3Part2_M/XunMengLong_Rig_02:Tail3Part3_M/XunMengLong_Rig_02:Tail3Part4_M/XunMengLong_Rig_02:Tail4_M/XunMengLong_Rig_02:Tail4Part1_M/XunMengLong_Rig_02:Tail4Part2_M/XunMengLong_Rig_02:Tail4Part3_M/XunMengLong_Rig_02:Tail4Part4_M/XunMengLong_Rig_02:Tail5_M/XunMengLong_Rig_02:Tail5Part1_M/XunMengLong_Rig_02:Tail5Part2_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M/XunMengLong_Rig_02:Tail2Part3_M/XunMengLong_Rig_02:Tail2Part4_M/XunMengLong_Rig_02:Tail3_M/XunMengLong_Rig_02:Tail3Part1_M/XunMengLong_Rig_02:Tail3Part2_M/XunMengLong_Rig_02:Tail3Part3_M/XunMengLong_Rig_02:Tail3Part4_M/XunMengLong_Rig_02:Tail4_M/XunMengLong_Rig_02:Tail4Part1_M/XunMengLong_Rig_02:Tail4Part2_M/XunMengLong_Rig_02:Tail4Part3_M/XunMengLong_Rig_02:Tail4Part4_M/XunMengLong_Rig_02:Tail5_M/XunMengLong_Rig_02:Tail5Part1_M/XunMengLong_Rig_02:Tail5Part2_M/XunMengLong_Rig_02:Tail5Part3_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M/XunMengLong_Rig_02:Tail2Part3_M/XunMengLong_Rig_02:Tail2Part4_M/XunMengLong_Rig_02:Tail3_M/XunMengLong_Rig_02:Tail3Part1_M/XunMengLong_Rig_02:Tail3Part2_M/XunMengLong_Rig_02:Tail3Part3_M/XunMengLong_Rig_02:Tail3Part4_M/XunMengLong_Rig_02:Tail4_M/XunMengLong_Rig_02:Tail4Part1_M/XunMengLong_Rig_02:Tail4Part2_M/XunMengLong_Rig_02:Tail4Part3_M/XunMengLong_Rig_02:Tail4Part4_M/XunMengLong_Rig_02:Tail5_M/XunMengLong_Rig_02:Tail5Part1_M/XunMengLong_Rig_02:Tail5Part2_M/XunMengLong_Rig_02:Tail5Part3_M/XunMengLong_Rig_02:Tail5Part4_M
+        weight: 1
+      - path: XunMengLong_Rig_02:tooth_mod
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Interaction
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 55
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.039106146
+        functionName: Run
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.85128206
+        functionName: StopAnim
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.95810056
+        functionName: StopRun
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.12034384
+        functionName: Play
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Velociraptor37
+        weight: 1
+      - path: Velociraptor37_chi
+        weight: 1
+      - path: Velociraptor37_chi/Velociraptor37_chi_MeshPart0
+        weight: 1
+      - path: Velociraptor37_chi/Velociraptor37_chi_MeshPart1
+        weight: 1
+      - path: Velociraptor37_chi/Velociraptor37_chi_MeshPart2
+        weight: 1
+      - path: Velociraptor37_chi/Velociraptor37_chi_MeshPart3
+        weight: 1
+      - path: Velociraptor37_chi/Velociraptor37_chi_MeshPart4
+        weight: 1
+      - path: Velociraptor37_chi/Velociraptor37_chi_MeshPart5
+        weight: 1
+      - path: Velociraptor37_yan
+        weight: 1
+      - path: Velociraptor37_yan2
+        weight: 1
+      - path: XunMengLong_Rig_02:FKIKParentConstraintLeg1_R
+        weight: 1
+      - path: XunMengLong_Rig_02:LegAimRump1_R
+        weight: 1
+      - path: XunMengLong_Rig_02:LegAimRump1_R/XunMengLong_Rig_02:FKOffsetRump1_R
+        weight: 1
+      - path: XunMengLong_Rig_02:LegAimRump1_R/XunMengLong_Rig_02:FKOffsetRump1_R/XunMengLong_Rig_02:FKGlobalStaticRump1_R
+        weight: 1
+      - path: XunMengLong_Rig_02:LegAimRump1_R/XunMengLong_Rig_02:FKOffsetRump1_R/XunMengLong_Rig_02:FKGlobalStaticRump1_R/XunMengLong_Rig_02:FKGlobalRump1_R
+        weight: 1
+      - path: XunMengLong_Rig_02:LegAimRump1_R/XunMengLong_Rig_02:FKOffsetRump1_R/XunMengLong_Rig_02:FKGlobalStaticRump1_R/XunMengLong_Rig_02:FKGlobalRump1_R/XunMengLong_Rig_02:FKExtraRump1_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_L/XunMengLong_Rig_02:Hip_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_L/XunMengLong_Rig_02:Hip_L/XunMengLong_Rig_02:Knee_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_L/XunMengLong_Rig_02:Hip_L/XunMengLong_Rig_02:Knee_L/XunMengLong_Rig_02:Ankle_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_L/XunMengLong_Rig_02:Hip_L/XunMengLong_Rig_02:Knee_L/XunMengLong_Rig_02:Ankle_L/XunMengLong_Rig_02:Toes_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_L/XunMengLong_Rig_02:Hip_L/XunMengLong_Rig_02:Knee_L/XunMengLong_Rig_02:Ankle_L/XunMengLong_Rig_02:Toes_L/XunMengLong_Rig_02:LongToe1_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_L/XunMengLong_Rig_02:Hip_L/XunMengLong_Rig_02:Knee_L/XunMengLong_Rig_02:Ankle_L/XunMengLong_Rig_02:Toes_L/XunMengLong_Rig_02:LongToe1_L/XunMengLong_Rig_02:LongToe2_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_L/XunMengLong_Rig_02:Hip_L/XunMengLong_Rig_02:Knee_L/XunMengLong_Rig_02:Ankle_L/XunMengLong_Rig_02:Toes_L/XunMengLong_Rig_02:MiddleToe1_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_L/XunMengLong_Rig_02:Hip_L/XunMengLong_Rig_02:Knee_L/XunMengLong_Rig_02:Ankle_L/XunMengLong_Rig_02:Toes_L/XunMengLong_Rig_02:MiddleToe1_L/XunMengLong_Rig_02:MiddleToe2_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_L/XunMengLong_Rig_02:Hip_L/XunMengLong_Rig_02:Knee_L/XunMengLong_Rig_02:Ankle_L/XunMengLong_Rig_02:Toes_L/XunMengLong_Rig_02:MiddleToe1_L/XunMengLong_Rig_02:MiddleToe2_L/XunMengLong_Rig_02:MiddleToe3_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_L/XunMengLong_Rig_02:Hip_L/XunMengLong_Rig_02:Knee_L/XunMengLong_Rig_02:Ankle_L/XunMengLong_Rig_02:Toes_L/XunMengLong_Rig_02:RingToe1_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_L/XunMengLong_Rig_02:Hip_L/XunMengLong_Rig_02:Knee_L/XunMengLong_Rig_02:Ankle_L/XunMengLong_Rig_02:Toes_L/XunMengLong_Rig_02:RingToe1_L/XunMengLong_Rig_02:RingToe2_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_L/XunMengLong_Rig_02:Hip_L/XunMengLong_Rig_02:Knee_L/XunMengLong_Rig_02:Ankle_L/XunMengLong_Rig_02:Toes_L/XunMengLong_Rig_02:RingToe1_L/XunMengLong_Rig_02:RingToe2_L/XunMengLong_Rig_02:RingToe3_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_R/XunMengLong_Rig_02:Hip_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_R/XunMengLong_Rig_02:Hip_R/XunMengLong_Rig_02:Knee_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_R/XunMengLong_Rig_02:Hip_R/XunMengLong_Rig_02:Knee_R/XunMengLong_Rig_02:Ankle_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_R/XunMengLong_Rig_02:Hip_R/XunMengLong_Rig_02:Knee_R/XunMengLong_Rig_02:Ankle_R/XunMengLong_Rig_02:Toes_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_R/XunMengLong_Rig_02:Hip_R/XunMengLong_Rig_02:Knee_R/XunMengLong_Rig_02:Ankle_R/XunMengLong_Rig_02:Toes_R/XunMengLong_Rig_02:LongToe1_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_R/XunMengLong_Rig_02:Hip_R/XunMengLong_Rig_02:Knee_R/XunMengLong_Rig_02:Ankle_R/XunMengLong_Rig_02:Toes_R/XunMengLong_Rig_02:LongToe1_R/XunMengLong_Rig_02:LongToe2_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_R/XunMengLong_Rig_02:Hip_R/XunMengLong_Rig_02:Knee_R/XunMengLong_Rig_02:Ankle_R/XunMengLong_Rig_02:Toes_R/XunMengLong_Rig_02:MiddleToe1_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_R/XunMengLong_Rig_02:Hip_R/XunMengLong_Rig_02:Knee_R/XunMengLong_Rig_02:Ankle_R/XunMengLong_Rig_02:Toes_R/XunMengLong_Rig_02:MiddleToe1_R/XunMengLong_Rig_02:MiddleToe2_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_R/XunMengLong_Rig_02:Hip_R/XunMengLong_Rig_02:Knee_R/XunMengLong_Rig_02:Ankle_R/XunMengLong_Rig_02:Toes_R/XunMengLong_Rig_02:MiddleToe1_R/XunMengLong_Rig_02:MiddleToe2_R/XunMengLong_Rig_02:MiddleToe3_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_R/XunMengLong_Rig_02:Hip_R/XunMengLong_Rig_02:Knee_R/XunMengLong_Rig_02:Ankle_R/XunMengLong_Rig_02:Toes_R/XunMengLong_Rig_02:RingToe1_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_R/XunMengLong_Rig_02:Hip_R/XunMengLong_Rig_02:Knee_R/XunMengLong_Rig_02:Ankle_R/XunMengLong_Rig_02:Toes_R/XunMengLong_Rig_02:RingToe1_R/XunMengLong_Rig_02:RingToe2_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Rump_R/XunMengLong_Rig_02:Hip_R/XunMengLong_Rig_02:Knee_R/XunMengLong_Rig_02:Ankle_R/XunMengLong_Rig_02:Toes_R/XunMengLong_Rig_02:RingToe1_R/XunMengLong_Rig_02:RingToe2_R/XunMengLong_Rig_02:RingToe3_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Neck0_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Neck0_M/XunMengLong_Rig_02:Neck1_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Neck0_M/XunMengLong_Rig_02:Neck1_M/XunMengLong_Rig_02:Neck2_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Neck0_M/XunMengLong_Rig_02:Neck1_M/XunMengLong_Rig_02:Neck2_M/XunMengLong_Rig_02:Neck3_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Neck0_M/XunMengLong_Rig_02:Neck1_M/XunMengLong_Rig_02:Neck2_M/XunMengLong_Rig_02:Neck3_M/XunMengLong_Rig_02:Head_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Neck0_M/XunMengLong_Rig_02:Neck1_M/XunMengLong_Rig_02:Neck2_M/XunMengLong_Rig_02:Neck3_M/XunMengLong_Rig_02:Head_M/XunMengLong_Rig_02:Eye_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Neck0_M/XunMengLong_Rig_02:Neck1_M/XunMengLong_Rig_02:Neck2_M/XunMengLong_Rig_02:Neck3_M/XunMengLong_Rig_02:Head_M/XunMengLong_Rig_02:Eye_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Neck0_M/XunMengLong_Rig_02:Neck1_M/XunMengLong_Rig_02:Neck2_M/XunMengLong_Rig_02:Neck3_M/XunMengLong_Rig_02:Head_M/XunMengLong_Rig_02:Jaw_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_L/XunMengLong_Rig_02:Hip1_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_L/XunMengLong_Rig_02:Hip1_L/XunMengLong_Rig_02:Knee1_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_L/XunMengLong_Rig_02:Hip1_L/XunMengLong_Rig_02:Knee1_L/XunMengLong_Rig_02:Wrist_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_L/XunMengLong_Rig_02:Hip1_L/XunMengLong_Rig_02:Knee1_L/XunMengLong_Rig_02:Wrist_L/XunMengLong_Rig_02:IndexFinger1_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_L/XunMengLong_Rig_02:Hip1_L/XunMengLong_Rig_02:Knee1_L/XunMengLong_Rig_02:Wrist_L/XunMengLong_Rig_02:IndexFinger1_L/XunMengLong_Rig_02:IndexFinger2_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_L/XunMengLong_Rig_02:Hip1_L/XunMengLong_Rig_02:Knee1_L/XunMengLong_Rig_02:Wrist_L/XunMengLong_Rig_02:MiddleFinger1_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_L/XunMengLong_Rig_02:Hip1_L/XunMengLong_Rig_02:Knee1_L/XunMengLong_Rig_02:Wrist_L/XunMengLong_Rig_02:MiddleFinger1_L/XunMengLong_Rig_02:MiddleFinger2_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_L/XunMengLong_Rig_02:Hip1_L/XunMengLong_Rig_02:Knee1_L/XunMengLong_Rig_02:Wrist_L/XunMengLong_Rig_02:MiddleFinger1_L/XunMengLong_Rig_02:MiddleFinger2_L/XunMengLong_Rig_02:MiddleFinger3_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_L/XunMengLong_Rig_02:Hip1_L/XunMengLong_Rig_02:Knee1_L/XunMengLong_Rig_02:Wrist_L/XunMengLong_Rig_02:RingFinger1_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_L/XunMengLong_Rig_02:Hip1_L/XunMengLong_Rig_02:Knee1_L/XunMengLong_Rig_02:Wrist_L/XunMengLong_Rig_02:RingFinger1_L/XunMengLong_Rig_02:RingFinger2_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_L/XunMengLong_Rig_02:Hip1_L/XunMengLong_Rig_02:Knee1_L/XunMengLong_Rig_02:Wrist_L/XunMengLong_Rig_02:RingFinger1_L/XunMengLong_Rig_02:RingFinger2_L/XunMengLong_Rig_02:RingFinger3_L
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_R/XunMengLong_Rig_02:Hip1_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_R/XunMengLong_Rig_02:Hip1_R/XunMengLong_Rig_02:Knee1_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_R/XunMengLong_Rig_02:Hip1_R/XunMengLong_Rig_02:Knee1_R/XunMengLong_Rig_02:Wrist_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_R/XunMengLong_Rig_02:Hip1_R/XunMengLong_Rig_02:Knee1_R/XunMengLong_Rig_02:Wrist_R/XunMengLong_Rig_02:IndexFinger1_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_R/XunMengLong_Rig_02:Hip1_R/XunMengLong_Rig_02:Knee1_R/XunMengLong_Rig_02:Wrist_R/XunMengLong_Rig_02:IndexFinger1_R/XunMengLong_Rig_02:IndexFinger2_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_R/XunMengLong_Rig_02:Hip1_R/XunMengLong_Rig_02:Knee1_R/XunMengLong_Rig_02:Wrist_R/XunMengLong_Rig_02:MiddleFinger1_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_R/XunMengLong_Rig_02:Hip1_R/XunMengLong_Rig_02:Knee1_R/XunMengLong_Rig_02:Wrist_R/XunMengLong_Rig_02:MiddleFinger1_R/XunMengLong_Rig_02:MiddleFinger2_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_R/XunMengLong_Rig_02:Hip1_R/XunMengLong_Rig_02:Knee1_R/XunMengLong_Rig_02:Wrist_R/XunMengLong_Rig_02:MiddleFinger1_R/XunMengLong_Rig_02:MiddleFinger2_R/XunMengLong_Rig_02:MiddleFinger3_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_R/XunMengLong_Rig_02:Hip1_R/XunMengLong_Rig_02:Knee1_R/XunMengLong_Rig_02:Wrist_R/XunMengLong_Rig_02:RingFinger1_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_R/XunMengLong_Rig_02:Hip1_R/XunMengLong_Rig_02:Knee1_R/XunMengLong_Rig_02:Wrist_R/XunMengLong_Rig_02:RingFinger1_R/XunMengLong_Rig_02:RingFinger2_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Spine1_M/XunMengLong_Rig_02:Spine2_M/XunMengLong_Rig_02:Chest_M/XunMengLong_Rig_02:Rump1_R/XunMengLong_Rig_02:Hip1_R/XunMengLong_Rig_02:Knee1_R/XunMengLong_Rig_02:Wrist_R/XunMengLong_Rig_02:RingFinger1_R/XunMengLong_Rig_02:RingFinger2_R/XunMengLong_Rig_02:RingFinger3_R
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M/XunMengLong_Rig_02:Tail2Part3_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M/XunMengLong_Rig_02:Tail2Part3_M/XunMengLong_Rig_02:Tail2Part4_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M/XunMengLong_Rig_02:Tail2Part3_M/XunMengLong_Rig_02:Tail2Part4_M/XunMengLong_Rig_02:Tail3_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M/XunMengLong_Rig_02:Tail2Part3_M/XunMengLong_Rig_02:Tail2Part4_M/XunMengLong_Rig_02:Tail3_M/XunMengLong_Rig_02:Tail3Part1_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M/XunMengLong_Rig_02:Tail2Part3_M/XunMengLong_Rig_02:Tail2Part4_M/XunMengLong_Rig_02:Tail3_M/XunMengLong_Rig_02:Tail3Part1_M/XunMengLong_Rig_02:Tail3Part2_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M/XunMengLong_Rig_02:Tail2Part3_M/XunMengLong_Rig_02:Tail2Part4_M/XunMengLong_Rig_02:Tail3_M/XunMengLong_Rig_02:Tail3Part1_M/XunMengLong_Rig_02:Tail3Part2_M/XunMengLong_Rig_02:Tail3Part3_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M/XunMengLong_Rig_02:Tail2Part3_M/XunMengLong_Rig_02:Tail2Part4_M/XunMengLong_Rig_02:Tail3_M/XunMengLong_Rig_02:Tail3Part1_M/XunMengLong_Rig_02:Tail3Part2_M/XunMengLong_Rig_02:Tail3Part3_M/XunMengLong_Rig_02:Tail3Part4_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M/XunMengLong_Rig_02:Tail2Part3_M/XunMengLong_Rig_02:Tail2Part4_M/XunMengLong_Rig_02:Tail3_M/XunMengLong_Rig_02:Tail3Part1_M/XunMengLong_Rig_02:Tail3Part2_M/XunMengLong_Rig_02:Tail3Part3_M/XunMengLong_Rig_02:Tail3Part4_M/XunMengLong_Rig_02:Tail4_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M/XunMengLong_Rig_02:Tail2Part3_M/XunMengLong_Rig_02:Tail2Part4_M/XunMengLong_Rig_02:Tail3_M/XunMengLong_Rig_02:Tail3Part1_M/XunMengLong_Rig_02:Tail3Part2_M/XunMengLong_Rig_02:Tail3Part3_M/XunMengLong_Rig_02:Tail3Part4_M/XunMengLong_Rig_02:Tail4_M/XunMengLong_Rig_02:Tail4Part1_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M/XunMengLong_Rig_02:Tail2Part3_M/XunMengLong_Rig_02:Tail2Part4_M/XunMengLong_Rig_02:Tail3_M/XunMengLong_Rig_02:Tail3Part1_M/XunMengLong_Rig_02:Tail3Part2_M/XunMengLong_Rig_02:Tail3Part3_M/XunMengLong_Rig_02:Tail3Part4_M/XunMengLong_Rig_02:Tail4_M/XunMengLong_Rig_02:Tail4Part1_M/XunMengLong_Rig_02:Tail4Part2_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M/XunMengLong_Rig_02:Tail2Part3_M/XunMengLong_Rig_02:Tail2Part4_M/XunMengLong_Rig_02:Tail3_M/XunMengLong_Rig_02:Tail3Part1_M/XunMengLong_Rig_02:Tail3Part2_M/XunMengLong_Rig_02:Tail3Part3_M/XunMengLong_Rig_02:Tail3Part4_M/XunMengLong_Rig_02:Tail4_M/XunMengLong_Rig_02:Tail4Part1_M/XunMengLong_Rig_02:Tail4Part2_M/XunMengLong_Rig_02:Tail4Part3_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M/XunMengLong_Rig_02:Tail2Part3_M/XunMengLong_Rig_02:Tail2Part4_M/XunMengLong_Rig_02:Tail3_M/XunMengLong_Rig_02:Tail3Part1_M/XunMengLong_Rig_02:Tail3Part2_M/XunMengLong_Rig_02:Tail3Part3_M/XunMengLong_Rig_02:Tail3Part4_M/XunMengLong_Rig_02:Tail4_M/XunMengLong_Rig_02:Tail4Part1_M/XunMengLong_Rig_02:Tail4Part2_M/XunMengLong_Rig_02:Tail4Part3_M/XunMengLong_Rig_02:Tail4Part4_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M/XunMengLong_Rig_02:Tail2Part3_M/XunMengLong_Rig_02:Tail2Part4_M/XunMengLong_Rig_02:Tail3_M/XunMengLong_Rig_02:Tail3Part1_M/XunMengLong_Rig_02:Tail3Part2_M/XunMengLong_Rig_02:Tail3Part3_M/XunMengLong_Rig_02:Tail3Part4_M/XunMengLong_Rig_02:Tail4_M/XunMengLong_Rig_02:Tail4Part1_M/XunMengLong_Rig_02:Tail4Part2_M/XunMengLong_Rig_02:Tail4Part3_M/XunMengLong_Rig_02:Tail4Part4_M/XunMengLong_Rig_02:Tail5_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M/XunMengLong_Rig_02:Tail2Part3_M/XunMengLong_Rig_02:Tail2Part4_M/XunMengLong_Rig_02:Tail3_M/XunMengLong_Rig_02:Tail3Part1_M/XunMengLong_Rig_02:Tail3Part2_M/XunMengLong_Rig_02:Tail3Part3_M/XunMengLong_Rig_02:Tail3Part4_M/XunMengLong_Rig_02:Tail4_M/XunMengLong_Rig_02:Tail4Part1_M/XunMengLong_Rig_02:Tail4Part2_M/XunMengLong_Rig_02:Tail4Part3_M/XunMengLong_Rig_02:Tail4Part4_M/XunMengLong_Rig_02:Tail5_M/XunMengLong_Rig_02:Tail5Part1_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M/XunMengLong_Rig_02:Tail2Part3_M/XunMengLong_Rig_02:Tail2Part4_M/XunMengLong_Rig_02:Tail3_M/XunMengLong_Rig_02:Tail3Part1_M/XunMengLong_Rig_02:Tail3Part2_M/XunMengLong_Rig_02:Tail3Part3_M/XunMengLong_Rig_02:Tail3Part4_M/XunMengLong_Rig_02:Tail4_M/XunMengLong_Rig_02:Tail4Part1_M/XunMengLong_Rig_02:Tail4Part2_M/XunMengLong_Rig_02:Tail4Part3_M/XunMengLong_Rig_02:Tail4Part4_M/XunMengLong_Rig_02:Tail5_M/XunMengLong_Rig_02:Tail5Part1_M/XunMengLong_Rig_02:Tail5Part2_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M/XunMengLong_Rig_02:Tail2Part3_M/XunMengLong_Rig_02:Tail2Part4_M/XunMengLong_Rig_02:Tail3_M/XunMengLong_Rig_02:Tail3Part1_M/XunMengLong_Rig_02:Tail3Part2_M/XunMengLong_Rig_02:Tail3Part3_M/XunMengLong_Rig_02:Tail3Part4_M/XunMengLong_Rig_02:Tail4_M/XunMengLong_Rig_02:Tail4Part1_M/XunMengLong_Rig_02:Tail4Part2_M/XunMengLong_Rig_02:Tail4Part3_M/XunMengLong_Rig_02:Tail4Part4_M/XunMengLong_Rig_02:Tail5_M/XunMengLong_Rig_02:Tail5Part1_M/XunMengLong_Rig_02:Tail5Part2_M/XunMengLong_Rig_02:Tail5Part3_M
+        weight: 1
+      - path: XunMengLong_Rig_02:Root_M/XunMengLong_Rig_02:Tail0_M/XunMengLong_Rig_02:Tail0Part1_M/XunMengLong_Rig_02:Tail0Part2_M/XunMengLong_Rig_02:Tail0Part3_M/XunMengLong_Rig_02:Tail0Part4_M/XunMengLong_Rig_02:Tail1_M/XunMengLong_Rig_02:Tail1Part1_M/XunMengLong_Rig_02:Tail1Part2_M/XunMengLong_Rig_02:Tail1Part3_M/XunMengLong_Rig_02:Tail1Part4_M/XunMengLong_Rig_02:Tail2_M/XunMengLong_Rig_02:Tail2Part1_M/XunMengLong_Rig_02:Tail2Part2_M/XunMengLong_Rig_02:Tail2Part3_M/XunMengLong_Rig_02:Tail2Part4_M/XunMengLong_Rig_02:Tail3_M/XunMengLong_Rig_02:Tail3Part1_M/XunMengLong_Rig_02:Tail3Part2_M/XunMengLong_Rig_02:Tail3Part3_M/XunMengLong_Rig_02:Tail3Part4_M/XunMengLong_Rig_02:Tail4_M/XunMengLong_Rig_02:Tail4Part1_M/XunMengLong_Rig_02:Tail4Part2_M/XunMengLong_Rig_02:Tail4Part3_M/XunMengLong_Rig_02:Tail4Part4_M/XunMengLong_Rig_02:Tail5_M/XunMengLong_Rig_02:Tail5Part1_M/XunMengLong_Rig_02:Tail5Part2_M/XunMengLong_Rig_02:Tail5Part3_M/XunMengLong_Rig_02:Tail5Part4_M
+        weight: 1
+      - path: XunMengLong_Rig_02:tooth_mod
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
