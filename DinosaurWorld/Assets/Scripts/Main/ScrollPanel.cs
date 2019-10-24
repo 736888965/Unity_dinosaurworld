@@ -4,7 +4,8 @@ using UnityEngine;
 
 using UnityEngine.UI;
 
-public class ScrollPanel : MonoBehaviour {
+public class ScrollPanel : MonoBehaviour
+{
 
     public ScrollRect rect;
 
@@ -22,17 +23,28 @@ public class ScrollPanel : MonoBehaviour {
             Destroy(parent.GetChild(i).gameObject);
         }
         GameObject go = TransfromHelp.ResourceOBJ("Text");
-        for (int i = 0; i < ResoureManager.Instance.list.Count; i++)
+        List<string> list = SaveData.GetState();
+        Debug.Log(list.Count);
+        for (int i = 0; i < list.Count; i++)
         {
             GameObject temp = Instantiate(go, parent);
             temp.transform.localScale = Vector3.one;
             temp.transform.localRotation = Quaternion.identity;
-            temp.GetComponent<Text>().text = ResoureManager.Instance.GetName(ResoureManager.Instance.list[i]);
+            temp.GetComponent<Text>().text = ResoureManager.Instance.GetName(list[i]);
         }
-        parent.GetComponent<RectTransform>().sizeDelta = new Vector2(0, 50 * ResoureManager.Instance.list.Count);
+        parent.GetComponent<RectTransform>().sizeDelta = new Vector2(0, 50 * list.Count);
+
+        //for (int i = 0; i < ResoureManager.Instance.list.Count; i++)
+        //{
+        //    GameObject temp = Instantiate(go, parent);
+        //    temp.transform.localScale = Vector3.one;
+        //    temp.transform.localRotation = Quaternion.identity;
+        //    temp.GetComponent<Text>().text = ResoureManager.Instance.GetName(ResoureManager.Instance.list[i]);
+        //}
+        // parent.GetComponent<RectTransform>().sizeDelta = new Vector2(0, 50 * ResoureManager.Instance.list.Count);
 
         //if (!Gloab.IsActive) return;
-       
+
         //GameObject go = TransfromHelp.ResourceOBJ("Text");
         //Debug.Log(ResoureManager.Instance.m_InfoList.Keys.Count);
         //foreach (var item in ResoureManager.Instance.m_InfoList)

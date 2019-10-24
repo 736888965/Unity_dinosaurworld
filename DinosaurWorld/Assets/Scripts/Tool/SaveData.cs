@@ -86,7 +86,8 @@ public class SaveData
             string[] states = temp.Split(';');
             for (int i = 0; i < states.Length; i++)
             {
-                if (list.Contains(states[i]))
+                Debug.Log( states[i]);
+                if (!list.Contains(states[i])&&!string.IsNullOrEmpty(states[i]))
                     list.Add(states[i]);
             }
         }

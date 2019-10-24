@@ -213,7 +213,6 @@ public class ModelPanel : MonoBehaviour
     private void TrackingFound(Transform model, Transform parent)
     {
         InitAudio(true);
-        panel.Rest();
         find_Obj.SetActive(true);
         ar_Image.SetActive(false);
         Mountainou.SetActive(false);
@@ -251,7 +250,7 @@ public class ModelPanel : MonoBehaviour
         //music.SetMessage("Music/" + modelTemp.name + "/101");
         Debug.LogError(parent.name);
         SetText(parent.name);
-       
+        panel.Rest();
         //识别
         ResoureManager.Instance.ScannModel(modelTemp.name);
     }

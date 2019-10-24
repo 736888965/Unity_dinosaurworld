@@ -10,7 +10,7 @@ public class TopRightPanel : UIBaseAdapt
     private List<GameObject> show_Obj = new List<GameObject>();
 
     public ModelPanel modelPanel;
-    private void Start()
+    private void Awake()
     {
         Button temp;
         GameObject go;
