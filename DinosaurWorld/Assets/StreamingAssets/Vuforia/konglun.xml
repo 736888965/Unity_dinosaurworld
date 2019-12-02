@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="5Keichousaurus" size="1.000000 1.000000" />
+    <ImageTarget name="52Yandangornis" size="1.000000 1.000000" />
+    <ImageTarget name="51Prestosuchus" size="1.000000 1.000000" />
+    <ImageTarget name="50Archaeopteryx" size="1.000000 1.000000" />
+    <ImageTarget name="49Sinosauropteryx" size="1.000000 1.000000" />
+    <ImageTarget name="48Dinocephalosaurus" size="1.000000 1.000000" />
+    <ImageTarget name="47Darwinopterus" size="1.000000 1.000000" />
+    <ImageTarget name="46Zhejiangopterus" size="1.000000 1.000000" />
+    <ImageTarget name="45Platypterygius" size="1.000000 1.000000" />
+    <ImageTarget name="44Ophthalmosaurus" size="1.000000 1.000000" />
+    <ImageTarget name="43Maiasaura" size="1.000000 1.000000" />
+    <ImageTarget name="42Albertosaurus" size="1.000000 1.000000" />
+    <ImageTarget name="41Ornithomimus" size="1.000000 1.000000" />
+    <ImageTarget name="40Archaeornithomi" size="1.000000 1.000000" />
+    <ImageTarget name="39Oviraptor" size="1.000000 1.000000" />
+    <ImageTarget name="38Protoceratops" size="1.000000 1.000000" />
+    <ImageTarget name="37Velociraptor" size="1.000000 1.000000" />
+    <ImageTarget name="36Allosaurus" size="1.000000 1.000000" />
+    <ImageTarget name="35Stegosaurus" size="1.000000 1.000000" />
+    <ImageTarget name="34Yunnanosaurus" size="1.000000 1.000000" />
+    <ImageTarget name="33Compsognathus" size="1.000000 1.000000" />
+    <ImageTarget name="32Anchiornis" size="1.000000 1.000000" />
+    <ImageTarget name="31Coelophysis" size="1.000000 1.000000" />
+    <ImageTarget name="30Eodromaeus" size="1.000000 1.000000" />
+    <ImageTarget name="29Eoraptor" size="1.000000 1.000000" />
+    <ImageTarget name="28Euoplocephalus" size="1.000000 1.000000" />
+    <ImageTarget name="27Hadrosaurus" size="1.000000 1.000000" />
+    <ImageTarget name="26Tyrannosaurus" size="1.000000 1.000000" />
+    <ImageTarget name="25Triceratops" size="1.000000 1.000000" />
+    <ImageTarget name="24Tuojiangosaurus" size="1.000000 1.000000" />
+    <ImageTarget name="23Herrerasaurus" size="1.000000 1.000000" />
+    <ImageTarget name="22Elasmosaurus" size="1.000000 1.000000" />
+    <ImageTarget name="21Plioplatecarpus" size="1.000000 1.000000" />
+    <ImageTarget name="20Pteranodon" size="1.000000 1.000000" />
+    <ImageTarget name="19Tupuxuara" size="1.000000 1.000000" />
+    <ImageTarget name="18Jinyunpelta" size="1.000000 1.000000" />
+    <ImageTarget name="17Tiantaitherizinosaurid" size="1.000000 1.000000" />
+    <ImageTarget name="16Yueosaurus" size="1.000000 1.000000" />
+    <ImageTarget name="15Zhejiangosaurus" size="1.000000 1.000000" />
+    <ImageTarget name="14Zhangheotherium" size="1.000000 1.000000" />
+    <ImageTarget name="13Huaxiapterus" size="1.000000 1.000000" />
+    <ImageTarget name="12Psittacosaurus" size="1.000000 1.000000" />
+    <ImageTarget name="11Liaoningosaurus" size="1.000000 1.000000" />
+    <ImageTarget name="10Microraptor" size="1.000000 1.000000" />
+    <ImageTarget name="9Caudipteryx" size="1.000000 1.000000" />
+    <ImageTarget name="8Limusaurus" size="1.000000 1.000000" />
+    <ImageTarget name="7Yinlong" size="1.000000 1.000000" />
+    <ImageTarget name="6Guanlong" size="1.000000 1.000000" />
+    <ImageTarget name="4Shastasaurus" size="1.000000 1.000000" />
+    <ImageTarget name="3Mixosaurus" size="1.000000 1.000000" />
+    <ImageTarget name="2Nothosaurus" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
